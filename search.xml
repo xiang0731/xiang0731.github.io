@@ -4,9 +4,86 @@
   
     
     <entry>
+      <title>美团外卖瑞幸生椰9.9 星巴克36双杯 肯德基海底捞等等...</title>
+      <link href="/2023/04/17/230417%20Miemie%20meituan/"/>
+      <url>/2023/04/17/230417%20Miemie%20meituan/</url>
+      
+        <content type="html"><![CDATA[<p>点链接进去直接买<a href="http://dpurl.cn/zfckku3z">http://dpurl.cn/zfckku3z</a></p><p>月底到期自动退</p><p>一号一天两张</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 优惠信息 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 优惠信息 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>关于Markdown</title>
+      <link href="/2023/04/16/230416%20About%20Markdown/"/>
+      <url>/2023/04/16/230416%20About%20Markdown/</url>
+      
+        <content type="html"><![CDATA[<h2 id="语法"><a href="#语法" class="headerlink" title="语法"></a>语法</h2><h3 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">### 三级标题</span><br></pre></td></tr></table></figure><p>由于这个会影响文章效果，就不放预览啦</p><h3 id="段落"><a href="#段落" class="headerlink" title="段落"></a>段落</h3><p>每一行为一段，空行就可以。</p><h3 id="加粗"><a href="#加粗" class="headerlink" title="加粗"></a>加粗</h3><p>通过“**”来达到加粗效果</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">**加粗内容**</span><br></pre></td></tr></table></figure><p><strong>加粗内容</strong></p><h3 id="删除线"><a href="#删除线" class="headerlink" title="删除线"></a>删除线</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">~~删除线~~</span><br></pre></td></tr></table></figure><p><del>删除线</del></p><h3 id="下划线"><a href="#下划线" class="headerlink" title="下划线"></a>下划线</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;u&gt;下面有条线&lt;/u&gt;</span><br></pre></td></tr></table></figure><p><u>下面有条线</u></p><h3 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[显示内容](超链接地址https://test.com)</span><br></pre></td></tr></table></figure><p><a href="WWW.GOOGLE.COM">Google</a></p><h3 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![图片描述](图片地址https://test.com)</span><br></pre></td></tr></table></figure><p>这里也不展示了</p><h3 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h3><p>用<code>序号. 文字</code>来表示，次级的需要和首级的字对齐</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1. 列表</span><br><span class="line">2. 列表</span><br><span class="line">   1. 列表</span><br></pre></td></tr></table></figure><ol><li>列表</li><li>列表<ol><li>列表</li></ol></li></ol><h3 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h3><p>用<code>- 文字</code>来表示，次级的需要和首级的字对齐</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">- 列表</span><br><span class="line">  - 列表</span><br></pre></td></tr></table></figure><ul><li>列表<ul><li>列表</li></ul></li></ul><h3 id="锚点"><a href="#锚点" class="headerlink" title="锚点"></a>锚点</h3><p>锚点的作用是标记文档中的特定位置，使用锚点可以跳转到当前文档或其他文档中指定的标记位置（可以理解为相对链接）。锚点常见于目录链接，因此有时候也称其为书签。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[锚点描述](#锚点名)</span><br></pre></td></tr></table></figure><p><a href="#%E9%94%9A%E7%82%B9%E5%90%8D">锚点描述</a></p><h4 id="语法说明"><a href="#语法说明" class="headerlink" title="语法说明"></a>语法说明</h4><p>锚点名不能有空格；<br>锚点名不能有特殊字符；<br>锚点名区分大小写英文字母；<br>锚点名建议使用字母和数字，也可以使用中文，不过要留意你所使用的编辑器或部署的网站是否支持。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># 目录</span><br><span class="line">- [第1章](Chapter1.md)</span><br><span class="line">- [第1章 第1节](Chapter1.md#Section1)</span><br></pre></td></tr></table></figure><p>在 Chapter1.md 文档中，创建 Section1 和 Section2 标题</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># Chapter1</span><br><span class="line">## Section1</span><br><span class="line">## Section2</span><br></pre></td></tr></table></figure><h3 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">@[toc]</span><br></pre></td></tr></table></figure><p>固定表示，这里也不展示啦</p><h3 id="内联代码"><a href="#内联代码" class="headerlink" title="内联代码"></a>内联代码</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">这是一个`TEST`</span><br></pre></td></tr></table></figure><p>这是一个<code>TEST</code></p><h3 id="任务"><a href="#任务" class="headerlink" title="任务"></a>任务</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">- [ ] task1</span><br><span class="line">- [x] task2</span><br></pre></td></tr></table></figure><ul><li><input disabled="" type="checkbox"> task1</li><li><input checked="" disabled="" type="checkbox"> task2</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Markdown从入门到精通 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Markdown </tag>
+            
+            <tag> 教程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>PMP学习日记</title>
+      <link href="/2023/04/16/230416%20PMP%20diary/"/>
+      <url>/2023/04/16/230416%20PMP%20diary/</url>
+      
+        <content type="html"><![CDATA[<h2 id="起始"><a href="#起始" class="headerlink" title="起始"></a>起始</h2><p>2020年1月的时候，看项目上的同事报名，就也想着一起考。</p><p>结果遇上疫情，上新项目，摆烂拖延（这是重点），一直到23年1月。<br>1月想着考3月的，结果1月底的时候说延迟了，心有侥幸又拖拖到现在4月。</p><p>因为再下次考的话，就用新考纲（第七版）了，想着第六版应该是最稳妥的，所以破釜沉舟决心报考。<br>据说线下课只有8天，然后同事说他每天花1小时，周末刷两套题，拿了5A（应该是最高）<br>所以我觉得应该可行的，就创建一个日志记录一下吧。</p><h3 id="230416"><a href="#230416" class="headerlink" title="230416"></a>230416</h3><p>开始刷导学课。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 个人随记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 个人 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hi</title>
-      <link href="/2023/04/09/Hi/"/>
-      <url>/2023/04/09/Hi/</url>
+      <link href="/2023/04/09/230409%20Hi/"/>
+      <url>/2023/04/09/230409%20Hi/</url>
       
         <content type="html"><![CDATA[<p>对，你没猜错，这是一个新新新新新的博客，会逐渐把我的文章迁移进来。</p>]]></content>
       
