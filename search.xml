@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Picgo使用Gitee报错解决，报错代码403</title>
+      <link href="/2023/04/25/230425%20Picgo%20gitee%20issue/"/>
+      <url>/2023/04/25/230425%20Picgo%20gitee%20issue/</url>
+      
+        <content type="html"><![CDATA[<h3 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h3><p>一开始我设置用的gitee插件gitee 2.0.5（如下图），无论怎么设置都报错。</p><p><img src="https://gitee.com/linsxiang0731/steve-img/raw/master/img/image-20230425115304279.png" alt="image-20230425115304279"></p><h3 id="报错：返回status-code-403"><a href="#报错：返回status-code-403" class="headerlink" title="报错：返回status code 403"></a>报错：返回status code 403</h3><p><img src="https://gitee.com/linsxiang0731/steve-img/raw/master/img/image-20230425144043818.png" alt="image-20230425144043818"></p><h3 id="解决方法：更换插件"><a href="#解决方法：更换插件" class="headerlink" title="解决方法：更换插件"></a>解决方法：更换插件</h3><p>直接搜索github，用这个github-plus</p><p><img src="https://gitee.com/linsxiang0731/steve-img/raw/master/img/202304251444232.png" alt="image-20230425144421199"></p><p>图床设置如下</p><p><img src="https://gitee.com/linsxiang0731/steve-img/raw/master/img/202304251511721.png" alt="image-20230425151139650"></p><p>repo：{用户名}&#x2F;{仓库名}</p><p>branch：看个人选择</p><p>token：个人令牌token</p><p>path：如果放根目录就不填，放文件夹填文件夹</p><p>customUrl：看个人选择填写</p><p>origin：选“gitee”</p><blockquote><p>注意repo这里！用户名不是你的昵称，所以不能用页面上显示的。</p><p>最好是去到管理页面，看路径！路径里的才是正确的</p></blockquote><p><img src="https://gitee.com/linsxiang0731/steve-img/raw/master/img/202304251450422.png" alt="image-20230425145014378"></p><h3 id="验证"><a href="#验证" class="headerlink" title="验证"></a>验证</h3><p><img src="https://gitee.com/linsxiang0731/steve-img/raw/master/img/202304251514082.png" alt="image-20230425151426050"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Picgo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 问题解决 </tag>
+            
+            <tag> Picgo </tag>
+            
+            <tag> Gitee </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>美团外卖瑞幸生椰9.9 星巴克36双杯 肯德基海底捞等等...</title>
       <link href="/2023/04/17/230417%20Miemie%20meituan/"/>
       <url>/2023/04/17/230417%20Miemie%20meituan/</url>
@@ -48,31 +77,6 @@
             <tag> Markdown </tag>
             
             <tag> 教程 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>PMP学习日记</title>
-      <link href="/2023/04/16/230416%20PMP%20diary/"/>
-      <url>/2023/04/16/230416%20PMP%20diary/</url>
-      
-        <content type="html"><![CDATA[<h2 id="起始"><a href="#起始" class="headerlink" title="起始"></a>起始</h2><p>2020年1月的时候，看项目上的同事报名，就也想着一起考。</p><p>结果遇上疫情，上新项目，摆烂拖延（这是重点），一直到23年1月。<br>1月想着考3月的，结果1月底的时候说延迟了，心有侥幸又拖拖到现在4月。</p><p>因为再下次考的话，就用新考纲（第七版）了，想着第六版应该是最稳妥的，所以破釜沉舟决心报考。<br>据说线下课只有8天，然后同事说他每天花1小时，周末刷两套题，拿了5A（应该是最高）<br>所以我觉得应该可行的，就创建一个日志记录一下吧。</p><h3 id="230416"><a href="#230416" class="headerlink" title="230416"></a>230416</h3><p>开始刷导学课。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 个人随记 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 个人 </tag>
             
         </tags>
       
