@@ -20,7 +20,34 @@
       
         <tags>
             
+            <tag> Picgo </tag>
+            
+            <tag> Gitee </tag>
+            
             <tag> 问题解决 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>用Picgo+Gitee打造私人图床</title>
+      <link href="/2023/04/25/230425%20Picgo+Gitee%E4%BD%9C%E4%B8%BA%E5%9B%BE%E5%BA%8A/"/>
+      <url>/2023/04/25/230425%20Picgo+Gitee%E4%BD%9C%E4%B8%BA%E5%9B%BE%E5%BA%8A/</url>
+      
+        <content type="html"><![CDATA[<h2 id="用Picgo-Gitee打造私人图床"><a href="#用Picgo-Gitee打造私人图床" class="headerlink" title="用Picgo+Gitee打造私人图床"></a>用Picgo+Gitee打造私人图床</h2><h3 id="23-4-26更新：Gitee已经开启防盗链，无法作为图床使用"><a href="#23-4-26更新：Gitee已经开启防盗链，无法作为图床使用" class="headerlink" title="23.4.26更新：Gitee已经开启防盗链，无法作为图床使用"></a>23.4.26更新：Gitee已经开启防盗链，无法作为图床使用</h3><h3 id="安装picgo"><a href="#安装picgo" class="headerlink" title="安装picgo"></a>安装picgo</h3><p>官网：<a href="https://github.com/Molunerfinn/PicGo">https://github.com/Molunerfinn/PicGo</a></p><p>官方文档：<a href="https://picgo.github.io/PicGo-Doc/zh/guide/#picgo-is-here">https://picgo.github.io/PicGo-Doc/zh/guide/#picgo-is-here</a></p><p>官方提供安装源：</p><table><thead><tr><th>下载源</th><th>地址&#x2F;安装方式</th><th>平台</th><th>备注</th></tr></thead><tbody><tr><td>GitHub Release</td><td><a href="https://github.com/Molunerfinn/PicGo/releases">https://github.com/Molunerfinn/PicGo/releases</a></td><td>All</td><td>国内下载速度可能会慢</td></tr><tr><td><a href="https://cloud.tencent.com/product/cos">腾讯云COS(opens new window)</a></td><td><a href="https://github.com/Molunerfinn/PicGo/releases">https://github.com/Molunerfinn/PicGo/releases</a> 附在更新日志结尾</td><td>All</td><td>感谢 <a href="https://cloud.tencent.com/product/cos">腾讯云COS (opens new window)</a>提供的赞助支持</td></tr><tr><td><a href="https://mirrors.sdu.edu.cn/">山东大学镜像站(opens new window)</a></td><td><a href="https://mirrors.sdu.edu.cn/github-release/Molunerfinn_PicGo">https://mirrors.sdu.edu.cn/github-release/Molunerfinn_PicGo</a></td><td>All</td><td>感谢 <a href="https://mirrors.sdu.edu.cn/">山东大学镜像站 (opens new window)</a>提供的镜像支持</td></tr><tr><td><a href="https://scoop.sh/">Scoop(opens new window)</a></td><td><code>scoop bucket add helbing https://github.com/helbing/scoop-bucket</code> &amp; <code>scoop install picgo</code></td><td>Windows</td><td>感谢 @helbing 的贡献</td></tr><tr><td><a href="https://chocolatey.org/">Chocolatey(opens new window)</a></td><td><code>choco install picgo</code></td><td>Windows</td><td>感谢 @iYato 的贡献</td></tr><tr><td><a href="https://brew.sh/">Homebrew(opens new window)</a></td><td><code>brew install picgo --cask</code></td><td>macOS</td><td>感谢 @womeimingzi11 的贡献</td></tr><tr><td><a href="https://aur.archlinux.org/packages/yay">AUR(opens new window)</a></td><td><code>yay -S picgo-appimage</code></td><td>Arch-Linux</td><td>感谢 @houbaron 的贡献</td></tr></tbody></table><blockquote><p>如果显示已损坏，打开终端输入这个，然后从应用程序里把picgo拖进去，回车，输入密码，再回车即可。</p></blockquote><figure class="highlight tex"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">sudo xattr -rd com.apple.quarantine</span><br></pre></td></tr></table></figure><p><img src="https://s2.loli.net/2023/04/26/FqCRy6PcamH7pfg.png" alt="image-20230425114831142"></p><h3 id="设置gitee"><a href="#设置gitee" class="headerlink" title="设置gitee"></a>设置gitee</h3><p>新建仓库</p><p><img src="https://gitee.com/linsxiang0731/steve-img/raw/master/img/image-20230425115206109.png" alt="image-20230425115206109"></p><p>仓库创建好了之后，点击头像进入个人主页，然后 头像 - 设置 - 私人令牌</p><p><img src="https://gitee.com/linsxiang0731/steve-img/raw/master/img/image-20230425115836549.png" alt="image-20230425115836549"></p><p>页面右上角，点击“生成新令牌”，只需要给到以下权限即可。</p><p><img src="https://gitee.com/linsxiang0731/steve-img/raw/master/img/image-20230425115948528.png" alt="image-20230425115948528"></p><p>点击提交之后，会生成私人令牌，记得保存好令牌，因为以后再也看不到这个key了</p><p><img src="https://gitee.com/linsxiang0731/steve-img/raw/master/img/image-20230425120019114.png" alt="image-20230425120019114"></p><h3 id="设置PicGo"><a href="#设置PicGo" class="headerlink" title="设置PicGo"></a>设置PicGo</h3><p>打开PicGo - 插件设置，搜索github-plus</p><p><img src="https://s2.loli.net/2023/04/26/pTSRoDX47yigQLI.png" alt="image-20230425144421199"></p><p>图床设置如下</p><p><img src="https://s2.loli.net/2023/04/26/xuWKIgfaw6Qb3G8.png" alt="image-20230425151139650"></p><p>repo：{用户名}&#x2F;{仓库名}</p><p>branch：看个人选择</p><p>token：个人令牌token</p><p>path：如果放根目录就不填，放文件夹填文件夹</p><p>customUrl：看个人选择填写</p><p>origin：选“gitee”</p><blockquote><p>注意repo这里！用户名不是你的昵称，所以不能用页面上显示的。</p><p>最好是去到管理页面，看路径！路径里的才是正确的</p></blockquote><p><img src="https://s2.loli.net/2023/04/26/3JVT4Qb1MdoGs5F.png" alt="image-20230425145014378"></p><p>填写完以后，点击“确定”，然后点击“设置默认图床”，即可正常使用Picgo搭配Gitee作为图床。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Picgo </category>
+          
+      </categories>
+      
+      
+        <tags>
             
             <tag> Picgo </tag>
             
