@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>在自己的github主页放点自定义内容</title>
+      <link href="/2023/04/30/230430%20%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84github%E4%B8%BB%E9%A1%B5%E6%94%BE%E7%82%B9%E8%87%AA%E5%AE%9A%E4%B9%89%E5%86%85%E5%AE%B9/"/>
+      <url>/2023/04/30/230430%20%E5%9C%A8%E8%87%AA%E5%B7%B1%E7%9A%84github%E4%B8%BB%E9%A1%B5%E6%94%BE%E7%82%B9%E8%87%AA%E5%AE%9A%E4%B9%89%E5%86%85%E5%AE%B9/</url>
+      
+        <content type="html"><![CDATA[<h2 id="在自己的github主页放点自定义内容"><a href="#在自己的github主页放点自定义内容" class="headerlink" title="在自己的github主页放点自定义内容"></a>在自己的github主页放点自定义内容</h2><h3 id="创建仓库"><a href="#创建仓库" class="headerlink" title="创建仓库"></a>创建仓库</h3><p>首先，点击“New repository”创建一个仓库</p><p><img src="https://s2.loli.net/2023/04/30/c2wOtD9qRjK5JFQ.png" alt="image-20230430130341447"></p><p>Repository填自己用户名，就是隔壁那个owner的名字</p><p>勾选“Add a README file”</p><p>点击“Create repository”</p><p><img src="https://s2.loli.net/2023/04/30/JzgqEXu3iDvsaWh.png" alt="image-20230430142436394"></p><p>创建之后，点击右边的“Edit README”，在里面编辑好内容保存即可。</p><p><img src="https://s2.loli.net/2023/04/30/VAmLwx76k8XF3IH.png" alt="image-20230430142710063"></p><h3 id="大功告成"><a href="#大功告成" class="headerlink" title="大功告成"></a>大功告成</h3><p><img src="https://s2.loli.net/2023/04/30/4ByHLTh2EgDt3Cc.png" alt="image-20230430130300209"></p><p>如果想进一步美化个人主页，还可以尝试使用HTML、CSS和JavaScript。</p><p>Enjoy it, 下次见~</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Github用起来 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> Github </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>给博客配置valine评论系统</title>
       <link href="/2023/04/26/230426%20%E7%BB%99%E5%8D%9A%E5%AE%A2%E9%85%8D%E7%BD%AEvaline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/"/>
       <url>/2023/04/26/230426%20%E7%BB%99%E5%8D%9A%E5%AE%A2%E9%85%8D%E7%BD%AEvaline%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F/</url>
@@ -40,7 +67,7 @@
       
       <categories>
           
-          <category> Picgo </category>
+          <category> 图片上传工具Picgo </category>
           
       </categories>
       
@@ -67,18 +94,18 @@
       
       <categories>
           
-          <category> Picgo </category>
+          <category> 图片上传工具Picgo </category>
           
       </categories>
       
       
         <tags>
             
+            <tag> 问题解决 </tag>
+            
             <tag> Picgo </tag>
             
             <tag> Gitee </tag>
-            
-            <tag> 问题解决 </tag>
             
         </tags>
       
@@ -96,7 +123,7 @@
       
       <categories>
           
-          <category> Picgo </category>
+          <category> 图片上传工具Picgo </category>
           
       </categories>
       
@@ -148,7 +175,7 @@
       
       <categories>
           
-          <category> Markdown从入门到精通 </category>
+          <category> Markdown从0到1 </category>
           
       </categories>
       
