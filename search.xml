@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>popclip安装自定义插件</title>
+      <link href="/2023/05/05/Apple%E7%9B%B8%E5%85%B3/230505%20popclip%E5%AE%89%E8%A3%85%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8F%92%E4%BB%B6/"/>
+      <url>/2023/05/05/Apple%E7%9B%B8%E5%85%B3/230505%20popclip%E5%AE%89%E8%A3%85%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8F%92%E4%BB%B6/</url>
+      
+        <content type="html"><![CDATA[<h2 id="popclip安装自定义插件"><a href="#popclip安装自定义插件" class="headerlink" title="popclip安装自定义插件"></a>popclip安装自定义插件</h2><p>其实很简单<br>首先自定义自己的插件</p><h3 id="准备"><a href="#准备" class="headerlink" title="准备"></a>准备</h3><p>popclip的格式如下，需要填写的有三个位置，分别是{名字}{链接}{query}</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">#popclip</span><br><span class="line">name: &#123;名字&#125;</span><br><span class="line">url: &#123;链接&#125;=&#123;query&#125;</span><br></pre></td></tr></table></figure><p>以百度为例，当你在百度，输入搜索词，点击搜索之后，浏览器跳转的链接是</p><p><code>https://www.baidu.com/s?ie=UTF-8&amp;wd=搜索词</code></p><p>所以，这里的{链接}就是</p><p><a href="https://www.baidu.com/s?ie=UTF-8&wd=">https://www.baidu.com/s?ie=UTF-8&amp;wd=</a></p><p>而{query}直接填入<code>***</code>即可</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">#popclip</span><br><span class="line">name: 百度</span><br><span class="line">url: https://www.baidu.com/s?ie=UTF-8&amp;wd=***</span><br></pre></td></tr></table></figure><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>打开popclip，直接选取上面这段，就能看到popclip弹出安装选项啦（下面引用官方的gif图）</p><p><img src="https://s2.loli.net/2023/05/05/cALqMaZsfIkG8og.gif" alt="CleanShot 2021-11-16 at 17.51.09"></p><h3 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h3><p><a href="https://forum.popclip.app/t/introducing-extension-snippets/309">https://forum.popclip.app/t/introducing-extension-snippets/309</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Apple相关 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> Mac </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Mac设置网络优先级</title>
       <link href="/2023/05/02/Apple%E7%9B%B8%E5%85%B3/230502%20Mac%E8%AE%BE%E7%BD%AE%E7%BD%91%E7%BB%9C%E4%BC%98%E5%85%88%E7%BA%A7/"/>
       <url>/2023/05/02/Apple%E7%9B%B8%E5%85%B3/230502%20Mac%E8%AE%BE%E7%BD%AE%E7%BD%91%E7%BB%9C%E4%BC%98%E5%85%88%E7%BA%A7/</url>
@@ -20,9 +47,9 @@
       
         <tags>
             
-            <tag> Mac </tag>
-            
             <tag> 教程 </tag>
+            
+            <tag> Mac </tag>
             
         </tags>
       
@@ -47,9 +74,9 @@
       
         <tags>
             
-            <tag> 教程 </tag>
-            
             <tag> Github </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
       
@@ -128,11 +155,11 @@
       
         <tags>
             
+            <tag> 问题解决 </tag>
+            
             <tag> Picgo </tag>
             
             <tag> Gitee </tag>
-            
-            <tag> 问题解决 </tag>
             
         </tags>
       
