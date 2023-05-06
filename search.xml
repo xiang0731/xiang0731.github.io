@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Keyboard Maestro下拉列表快速填充</title>
+      <link href="/2023/05/06/%E6%95%88%E7%8E%87%E7%88%86%E7%82%B8Keyboard%20Maestro/230506%20Keyboard%20Maestro%E4%B8%8B%E6%8B%89%E5%88%97%E8%A1%A8%E5%BF%AB%E9%80%9F%E5%A1%AB%E5%85%85/"/>
+      <url>/2023/05/06/%E6%95%88%E7%8E%87%E7%88%86%E7%82%B8Keyboard%20Maestro/230506%20Keyboard%20Maestro%E4%B8%8B%E6%8B%89%E5%88%97%E8%A1%A8%E5%BF%AB%E9%80%9F%E5%A1%AB%E5%85%85/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Keyboard-Maestro下拉列表快速填充"><a href="#Keyboard-Maestro下拉列表快速填充" class="headerlink" title="Keyboard Maestro下拉列表快速填充"></a>Keyboard Maestro下拉列表快速填充</h2><h3 id="缘由"><a href="#缘由" class="headerlink" title="缘由"></a>缘由</h3><p>既然可以做到短语快速输出文本，那能不能做到触发一个下拉列表让我选择来填充呢，于是就有了这篇文章~</p><h3 id="配置"><a href="#配置" class="headerlink" title="配置"></a>配置</h3><p>会用到下面3个actions（直接在actions里搜索即可）</p><p>Prompt With List：用于弹出菜单，title填名字（看个人），default填默认值（可以设定一个默认的选项，这样直接回车就能输出）</p><p>Switch&#x2F;Case：用于判断你选择的项</p><p>Insert Text by Typing：这个是放在Switch&#x2F;Case的actions里的，用于输出文本</p><p><img src="https://s2.loli.net/2023/05/06/VDd7q4M2PNO5iCJ.png" alt="image-20230506214614141"></p><h3 id="完结"><a href="#完结" class="headerlink" title="完结"></a>完结</h3><p>经过以上配置之后，我只要输入<code>tt</code>，就能弹出窗口，然后选择&#x2F;输入对应选项，就能直接输出短语啦</p><p><img src="https://s2.loli.net/2023/05/06/rZCb9Q732fjgDdF.gif" alt="CleanShot 2023-05-06 at 21.49.19"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 效率爆炸Keyboard Maestro </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> Keyboard Maestro </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>popclip安装自定义插件</title>
       <link href="/2023/05/05/Apple%E7%9B%B8%E5%85%B3/230505%20popclip%E5%AE%89%E8%A3%85%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8F%92%E4%BB%B6/"/>
       <url>/2023/05/05/Apple%E7%9B%B8%E5%85%B3/230505%20popclip%E5%AE%89%E8%A3%85%E8%87%AA%E5%AE%9A%E4%B9%89%E6%8F%92%E4%BB%B6/</url>
@@ -20,9 +47,9 @@
       
         <tags>
             
-            <tag> Mac </tag>
-            
             <tag> 教程 </tag>
+            
+            <tag> Mac </tag>
             
         </tags>
       
@@ -47,9 +74,9 @@
       
         <tags>
             
-            <tag> Mac </tag>
-            
             <tag> 教程 </tag>
+            
+            <tag> Mac </tag>
             
         </tags>
       
@@ -74,9 +101,9 @@
       
         <tags>
             
-            <tag> 教程 </tag>
-            
             <tag> Github </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
       
