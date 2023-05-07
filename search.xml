@@ -31,6 +31,33 @@
     
     
     <entry>
+      <title>Hexo的Front-matter</title>
+      <link href="/2023/05/07/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E7%9A%84Front-Matter/"/>
+      <url>/2023/05/07/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E7%9A%84Front-Matter/</url>
+      
+        <content type="html"><![CDATA[<h2 id="Hexo的Front-matter"><a href="#Hexo的Front-matter" class="headerlink" title="Hexo的Front-matter"></a>Hexo的Front-matter</h2><p>Front-matter 是 markdown 文件最上方以 — 分隔的区域，用于指定个别文件的变量。</p><p>Page Front-matter 用于页面配置 </p><p>Post Front-matter 用于文章页配置</p><h3 id="Page-Front-matter"><a href="#Page-Front-matter" class="headerlink" title="Page Front-matter"></a>Page Front-matter</h3><p>这是普通页面的配置文件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title:</span><br><span class="line">date:</span><br><span class="line">updated:</span><br><span class="line">type:</span><br><span class="line">comments:</span><br><span class="line">description:</span><br><span class="line">keywords:</span><br><span class="line">top_img:</span><br><span class="line">mathjax:</span><br><span class="line">katex:</span><br><span class="line">aside:</span><br><span class="line">aplayer:</span><br><span class="line">highlight_shrink:</span><br><span class="line">---</span><br></pre></td></tr></table></figure><p>解释说明</p><table><thead><tr><th>写法</th><th>解释</th></tr></thead><tbody><tr><td>title</td><td>【必须】页面标题</td></tr><tr><td>date</td><td>【必须】页面创建日期</td></tr><tr><td>type</td><td>【必须】标签、分类和友情链接三个页面需要配置</td></tr><tr><td>updated</td><td>【可选】页面更新日期</td></tr><tr><td>description</td><td>【可选】页面描述</td></tr><tr><td>keywords</td><td>【可选】页面关键字</td></tr><tr><td>comments</td><td>【可选】显示页面评论模块 (默认 true)</td></tr><tr><td>top_img</td><td>【可选】页面顶部图片</td></tr><tr><td>mathjax</td><td>【可选】显示mathjax (当设置mathjax的per_page: false时，才需要配置，默认 false)</td></tr><tr><td>katex</td><td>【可选】显示katex (当设置katex的per_page: false时，才需要配置，默认 false)</td></tr><tr><td>aside</td><td>【可选】显示侧边栏 (默认 true)</td></tr><tr><td>aplayer</td><td>【可选】在需要的页面加载aplayer的js和css，请参考文章下面的音乐 配置</td></tr><tr><td>highlight_shrink</td><td>【可选】配置代码框是否展开 (true&#x2F;false) (默认为设置中highlight_shrink的配置)</td></tr></tbody></table><h3 id="Post-Front-matter"><a href="#Post-Front-matter" class="headerlink" title="Post Front-matter"></a>Post Front-matter</h3><p>这是文章页面的配置文件</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br></pre></td><td class="code"><pre><span class="line">---</span><br><span class="line">title:</span><br><span class="line">date:</span><br><span class="line">updated:</span><br><span class="line">tags:</span><br><span class="line">categories:</span><br><span class="line">keywords:</span><br><span class="line">description:</span><br><span class="line">top_img:</span><br><span class="line">comments:</span><br><span class="line">cover:</span><br><span class="line">toc:</span><br><span class="line">toc_number:</span><br><span class="line">toc_style_simple:</span><br><span class="line">copyright:</span><br><span class="line">copyright_author:</span><br><span class="line">copyright_author_href:</span><br><span class="line">copyright_url:</span><br><span class="line">copyright_info:</span><br><span class="line">mathjax:</span><br><span class="line">katex:</span><br><span class="line">aplayer:</span><br><span class="line">highlight_shrink:</span><br><span class="line">aside:</span><br><span class="line">abcjs:</span><br><span class="line">---</span><br></pre></td></tr></table></figure><p>解释说明</p><table><thead><tr><th>写法</th><th>解释</th></tr></thead><tbody><tr><td>title</td><td>【必需】文章标题</td></tr><tr><td>date</td><td>【必需】文章创建日期</td></tr><tr><td>updated</td><td>【可选】文章更新日期</td></tr><tr><td>tags</td><td>【可选】文章标签</td></tr><tr><td>categories</td><td>【可选】文章分类</td></tr><tr><td>keywords</td><td>【可选】文章关键字</td></tr><tr><td>description</td><td>【可选】文章描述</td></tr><tr><td>top_img</td><td>【可选】文章顶部图片</td></tr><tr><td>cover</td><td>【可选】文章缩略图(如果没有设置top_img,文章页顶部将显示缩略图，可设为false&#x2F;图片地址&#x2F;留空)</td></tr><tr><td>comments</td><td>【可选】显示文章评论模块(默认 true)</td></tr><tr><td>toc</td><td>【可选】显示文章TOC(默认为设置中toc的enable配置)</td></tr><tr><td>toc_number</td><td>【可选】显示toc_number(默认为设置中toc的number配置)</td></tr><tr><td>toc_style_simple</td><td>【可选】显示 toc 简洁模式</td></tr><tr><td>copyright</td><td>【可选】显示文章版权模块(默认为设置中post_copyright的enable配置)</td></tr><tr><td>copyright_author</td><td>【可选】文章版权模块的文章作者</td></tr><tr><td>copyright_author_href</td><td>【可选】文章版权模块的文章作者链接</td></tr><tr><td>copyright_url</td><td>【可选】文章版权模块的文章链接链接</td></tr><tr><td>copyright_info</td><td>【可选】文章版权模块的版权声明文字</td></tr><tr><td>mathjax</td><td>【可选】显示mathjax(当设置 mathjax 的 per_page: false 时，才需要配置，默认 false)</td></tr><tr><td>katex</td><td>【可选】显示 katex (当设置 katex 的 per_page: false 时，才需要配置，默认 false)</td></tr><tr><td>aplayer</td><td>【可选】在需要的页面加载 aplayer 的 js 和 css,请参考文章下面的音乐 配置</td></tr><tr><td>highlight_shrink</td><td>【可选】配置代码框是否展开(true&#x2F;false)(默认为设置中 highlight_shrink 的配置)</td></tr><tr><td>aside</td><td>【可选】显示侧边栏 (默认 true)</td></tr><tr><td>abcjs</td><td>【可选】加载 abcjs (当设置 abcjs 的 per_page: false 时，才需要配置，默认 false)</td></tr></tbody></table><hr><p>本文摘录自<a href="https://butterfly.js.org/">Butterfly官方文档</a>,进行繁-简转换后发布。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 从0到1打造自己的博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Keyboard Maestro下拉列表快速填充</title>
       <link href="/2023/05/06/%E6%95%88%E7%8E%87%E7%88%86%E7%82%B8Keyboard%20Maestro/230506%20Keyboard%20Maestro%E4%B8%8B%E6%8B%89%E5%88%97%E8%A1%A8%E5%BF%AB%E9%80%9F%E5%A1%AB%E5%85%85/"/>
       <url>/2023/05/06/%E6%95%88%E7%8E%87%E7%88%86%E7%82%B8Keyboard%20Maestro/230506%20Keyboard%20Maestro%E4%B8%8B%E6%8B%89%E5%88%97%E8%A1%A8%E5%BF%AB%E9%80%9F%E5%A1%AB%E5%85%85/</url>
@@ -74,9 +101,9 @@
       
         <tags>
             
-            <tag> 教程 </tag>
-            
             <tag> Mac </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
       
@@ -101,9 +128,9 @@
       
         <tags>
             
-            <tag> 教程 </tag>
-            
             <tag> Mac </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
       
@@ -141,9 +168,9 @@
       
         <tags>
             
-            <tag> 教程 </tag>
-            
             <tag> Github </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
       
@@ -195,9 +222,9 @@
       
         <tags>
             
-            <tag> Github </tag>
-            
             <tag> Picgo </tag>
+            
+            <tag> Github </tag>
             
         </tags>
       
@@ -330,9 +357,9 @@
       
         <tags>
             
-            <tag> Markdown </tag>
-            
             <tag> 教程 </tag>
+            
+            <tag> Markdown </tag>
             
         </tags>
       
