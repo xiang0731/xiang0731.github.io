@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>Hexo显示中文网址</title>
+      <link href="/2023/05/07/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E6%98%BE%E7%A4%BA%E4%B8%AD%E6%96%87%E7%BD%91%E5%9D%80/"/>
+      <url>/2023/05/07/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E6%98%BE%E7%A4%BA%E4%B8%AD%E6%96%87%E7%BD%91%E5%9D%80/</url>
+      
+        <content type="html"><![CDATA[<h2 id="关于中文网址"><a href="#关于中文网址" class="headerlink" title="关于中文网址"></a>关于中文网址</h2><h3 id="中文网址"><a href="#中文网址" class="headerlink" title="中文网址"></a>中文网址</h3><p><img src="https://s2.loli.net/2023/05/07/D1tzTyoSWMGiRg5.png" alt="CleanShot 2023-05-07 at 12.51.19@2x"></p><h3 id="如何设置"><a href="#如何设置" class="headerlink" title="如何设置"></a>如何设置</h3><p>在主题的配置文件里，如果<code>decode: true</code>，则显示中文网址</p><p><img src="https://s2.loli.net/2023/05/07/1PRO4I96QiJ2eho.png" alt="CleanShot 2023-05-07 at 12.53.13"></p><h3 id="好与坏"><a href="#好与坏" class="headerlink" title="好与坏"></a>好与坏</h3><ol><li>可读性：使用中文可以提高网址的可读性，让用户更容易理解网页的内容。对于以中文为主要语言的用户群体，中文网址可能更符合他们的阅读习惯。</li><li>通用性：虽然使用中文网址可以提高可读性，但它可能不适用于所有用户。对于不懂中文的用户，中文网址可能会带来困扰和理解障碍。</li><li>编码问题：中文字符可能会导致编码问题，尤其是在某些浏览器和操作系统中。因此，使用中文网址可能会影响部分用户的体验。</li><li>SEO（搜索引擎优化）：使用中文网址可能会影响搜索引擎优化效果。虽然现代搜索引擎可以很好地处理中文字符，但英文关键词在搜索引擎排名中仍具有更高的权重。</li><li>品牌形象：网址中使用中文可以突显公司或品牌的本土特色，与特定的目标市场建立联系。然而，如果您希望建立国际化品牌形象，使用英文网址可能更有利。</li></ol><h3 id="个人感受"><a href="#个人感受" class="headerlink" title="个人感受"></a>个人感受</h3><p>感觉不是很好用，在多个地方有限制，导致不方便，所以最后还是不选择显示中文网址</p><p>在Arc浏览器粘贴中文网址，会跳转谷歌进行搜索</p><p><img src="https://s2.loli.net/2023/05/07/XuQOKHRwqUca9IP.png" alt="CleanShot 2023-05-07 at 12.57.29"></p><p>在微信中，会导致超链接只识别到前面，而导致页面打开有误</p><p><img src="https://s2.loli.net/2023/05/07/Dj8i4RyPSIew2xf.png" alt="image-20230507125838756"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 从0到1打造自己的博客 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Keyboard Maestro下拉列表快速填充</title>
       <link href="/2023/05/06/%E6%95%88%E7%8E%87%E7%88%86%E7%82%B8Keyboard%20Maestro/230506%20Keyboard%20Maestro%E4%B8%8B%E6%8B%89%E5%88%97%E8%A1%A8%E5%BF%AB%E9%80%9F%E5%A1%AB%E5%85%85/"/>
       <url>/2023/05/06/%E6%95%88%E7%8E%87%E7%88%86%E7%82%B8Keyboard%20Maestro/230506%20Keyboard%20Maestro%E4%B8%8B%E6%8B%89%E5%88%97%E8%A1%A8%E5%BF%AB%E9%80%9F%E5%A1%AB%E5%85%85/</url>
@@ -47,9 +74,9 @@
       
         <tags>
             
-            <tag> Mac </tag>
-            
             <tag> 教程 </tag>
+            
+            <tag> Mac </tag>
             
         </tags>
       
@@ -74,9 +101,9 @@
       
         <tags>
             
-            <tag> Mac </tag>
-            
             <tag> 教程 </tag>
+            
+            <tag> Mac </tag>
             
         </tags>
       
@@ -141,9 +168,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Blog </tag>
+            
+            <tag> Hexo </tag>
             
         </tags>
       
@@ -303,9 +330,9 @@
       
         <tags>
             
-            <tag> 教程 </tag>
-            
             <tag> Markdown </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
       
