@@ -47,9 +47,9 @@
       
         <tags>
             
-            <tag> 问题解决 </tag>
-            
             <tag> 威联通QNAP </tag>
+            
+            <tag> 问题解决 </tag>
             
         </tags>
       
@@ -318,33 +318,6 @@
     
     
     <entry>
-      <title>用Picgo+Github打造私人图床</title>
-      <link href="/2023/04/26/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7Picgo/230426%20%E7%94%A8picgo+github%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/"/>
-      <url>/2023/04/26/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7Picgo/230426%20%E7%94%A8picgo+github%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</url>
-      
-        <content type="html"><![CDATA[<h1 id="用Picgo-Github打造私人图床"><a href="#用Picgo-Github打造私人图床" class="headerlink" title="用Picgo+Github打造私人图床"></a>用Picgo+Github打造私人图床</h1><h3 id="配置github"><a href="#配置github" class="headerlink" title="配置github"></a>配置github</h3><p>创建repository</p><p><img src="https://s2.loli.net/2023/04/26/I5maVGnNEX4yOoB.png" alt="image-20230425163835257"></p><p>设置基本信息，点击create repository</p><p><img src="https://s2.loli.net/2023/04/25/XoT6HGI71JgU54u.png" alt="image-20230425164309027"></p><p>点击头像，选择setting，然后在左侧找到Developer settings，点击它</p><p><img src="https://s2.loli.net/2023/04/25/Nv5PsMLok1pmCzx.png" alt="image-20230425165215589"></p><p>点击生成new token</p><p><img src="https://s2.loli.net/2023/04/25/an79Yk648livKJS.png" alt="image-20230425165458953"></p><p>这个时候会要求验证（属于正常情况，验证即可。）</p><p><img src="https://s2.loli.net/2023/04/25/M9loFnWDmK1OPjN.png" alt="image-20230425165526974"></p><p>这里填写Note（给token备注），选择Expiration（有效时间），勾选repo（给予权限）</p><p><img src="https://s2.loli.net/2023/04/25/NTBRIG4iCoJ3l9e.png" alt="image-20230425171906228"></p><p>拉到最后，点击Generate token</p><p><img src="https://s2.loli.net/2023/04/25/GIp4isPaQhUFWBo.png" alt="image-20230425171933500"></p><p>会生成一条token（记得保存！！！只显示一次，后续无法再显示。）</p><p><img src="https://s2.loli.net/2023/04/25/FHrzuQf7ESiRqDo.png" alt="image-20230425172215264"></p><h3 id="配置Picgo"><a href="#配置Picgo" class="headerlink" title="配置Picgo"></a>配置Picgo</h3><p>仓库名：这个直接就是github名字&#x2F;仓库名字</p><p>设定分支名：目前github默认用main</p><p>设定Token：用上面步骤生成的</p><p>设定存储路径：如果要放文件夹里就写文件夹路径，留空就放根目录</p><p>设定自定义域名：这个可以使用Jsdelivr加速使用，也可以不填</p><p><img src="https://s2.loli.net/2023/04/26/NQRWPma7OnleE1C.png" alt="image-20230426012253633"></p><p>以上填写完了之后，点击“确定”，再点击”设为默认图床“，就可以拿github作为图床使用了</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 图片上传工具Picgo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Github </tag>
-            
-            <tag> Picgo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hexo将文章超链接放到导航栏</title>
       <link href="/2023/04/26/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E5%B0%86%E6%96%87%E7%AB%A0%E8%B6%85%E9%93%BE%E6%8E%A5%E6%94%BE%E5%88%B0%E5%AF%BC%E8%88%AA%E6%A0%8F/"/>
       <url>/2023/04/26/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E5%B0%86%E6%96%87%E7%AB%A0%E8%B6%85%E9%93%BE%E6%8E%A5%E6%94%BE%E5%88%B0%E5%AF%BC%E8%88%AA%E6%A0%8F/</url>
@@ -403,6 +376,33 @@
     
     
     <entry>
+      <title>用Picgo+Github打造私人图床</title>
+      <link href="/2023/04/26/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7Picgo/230426%20%E7%94%A8picgo+github%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/"/>
+      <url>/2023/04/26/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7Picgo/230426%20%E7%94%A8picgo+github%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</url>
+      
+        <content type="html"><![CDATA[<h1 id="用Picgo-Github打造私人图床"><a href="#用Picgo-Github打造私人图床" class="headerlink" title="用Picgo+Github打造私人图床"></a>用Picgo+Github打造私人图床</h1><h3 id="配置github"><a href="#配置github" class="headerlink" title="配置github"></a>配置github</h3><p>创建repository</p><p><img src="https://s2.loli.net/2023/04/26/I5maVGnNEX4yOoB.png" alt="image-20230425163835257"></p><p>设置基本信息，点击create repository</p><p><img src="https://s2.loli.net/2023/04/25/XoT6HGI71JgU54u.png" alt="image-20230425164309027"></p><p>点击头像，选择setting，然后在左侧找到Developer settings，点击它</p><p><img src="https://s2.loli.net/2023/04/25/Nv5PsMLok1pmCzx.png" alt="image-20230425165215589"></p><p>点击生成new token</p><p><img src="https://s2.loli.net/2023/04/25/an79Yk648livKJS.png" alt="image-20230425165458953"></p><p>这个时候会要求验证（属于正常情况，验证即可。）</p><p><img src="https://s2.loli.net/2023/04/25/M9loFnWDmK1OPjN.png" alt="image-20230425165526974"></p><p>这里填写Note（给token备注），选择Expiration（有效时间），勾选repo（给予权限）</p><p><img src="https://s2.loli.net/2023/04/25/NTBRIG4iCoJ3l9e.png" alt="image-20230425171906228"></p><p>拉到最后，点击Generate token</p><p><img src="https://s2.loli.net/2023/04/25/GIp4isPaQhUFWBo.png" alt="image-20230425171933500"></p><p>会生成一条token（记得保存！！！只显示一次，后续无法再显示。）</p><p><img src="https://s2.loli.net/2023/04/25/FHrzuQf7ESiRqDo.png" alt="image-20230425172215264"></p><h3 id="配置Picgo"><a href="#配置Picgo" class="headerlink" title="配置Picgo"></a>配置Picgo</h3><p>仓库名：这个直接就是github名字&#x2F;仓库名字</p><p>设定分支名：目前github默认用main</p><p>设定Token：用上面步骤生成的</p><p>设定存储路径：如果要放文件夹里就写文件夹路径，留空就放根目录</p><p>设定自定义域名：这个可以使用Jsdelivr加速使用，也可以不填</p><p><img src="https://s2.loli.net/2023/04/26/NQRWPma7OnleE1C.png" alt="image-20230426012253633"></p><p>以上填写完了之后，点击“确定”，再点击”设为默认图床“，就可以拿github作为图床使用了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 图片上传工具Picgo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Github </tag>
+            
+            <tag> Picgo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>解决Picgo使用Gitee报错，报错代码403</title>
       <link href="/2023/04/25/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7Picgo/230425%20%E8%A7%A3%E5%86%B3Picgo%E4%BD%BF%E7%94%A8Gitee%E6%8A%A5%E9%94%99%EF%BC%8C%E6%8A%A5%E9%94%99%E4%BB%A3%E7%A0%81403/"/>
       <url>/2023/04/25/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7Picgo/230425%20%E8%A7%A3%E5%86%B3Picgo%E4%BD%BF%E7%94%A8Gitee%E6%8A%A5%E9%94%99%EF%BC%8C%E6%8A%A5%E9%94%99%E4%BB%A3%E7%A0%81403/</url>
@@ -419,11 +419,11 @@
       
         <tags>
             
+            <tag> 问题解决 </tag>
+            
             <tag> Picgo </tag>
             
             <tag> Gitee </tag>
-            
-            <tag> 问题解决 </tag>
             
         </tags>
       
