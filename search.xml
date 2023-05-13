@@ -47,9 +47,9 @@
       
         <tags>
             
-            <tag> 威联通QNAP </tag>
-            
             <tag> 问题解决 </tag>
+            
+            <tag> 威联通QNAP </tag>
             
         </tags>
       
@@ -213,9 +213,9 @@
       
         <tags>
             
-            <tag> Mac </tag>
-            
             <tag> 教程 </tag>
+            
+            <tag> Mac </tag>
             
         </tags>
       
@@ -240,9 +240,9 @@
       
         <tags>
             
-            <tag> Mac </tag>
-            
             <tag> 教程 </tag>
+            
+            <tag> Mac </tag>
             
         </tags>
       
@@ -280,9 +280,9 @@
       
         <tags>
             
-            <tag> 教程 </tag>
-            
             <tag> Github </tag>
+            
+            <tag> 教程 </tag>
             
         </tags>
       
@@ -419,11 +419,11 @@
       
         <tags>
             
-            <tag> 问题解决 </tag>
-            
             <tag> Picgo </tag>
             
             <tag> Gitee </tag>
+            
+            <tag> 问题解决 </tag>
             
         </tags>
       
@@ -515,7 +515,7 @@
       <link href="/2023/04/16/Markdown%E4%BB%8E0%E5%88%B01/230513%20%E8%AE%A9Markdown%E4%B8%AD%E7%9A%84%E5%9B%BE%E7%89%87%E9%9D%A0%E5%B7%A6%E6%94%BE%E7%BD%AE/"/>
       <url>/2023/04/16/Markdown%E4%BB%8E0%E5%88%B01/230513%20%E8%AE%A9Markdown%E4%B8%AD%E7%9A%84%E5%9B%BE%E7%89%87%E9%9D%A0%E5%B7%A6%E6%94%BE%E7%BD%AE/</url>
       
-        <content type="html"><![CDATA[<h1 id="让Markdown中的图片靠左放置"><a href="#让Markdown中的图片靠左放置" class="headerlink" title="让Markdown中的图片靠左放置"></a>让Markdown中的图片靠左放置</h1><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>在markdown中可以用<img src="图片地址">来放置图片</p><p>也就意味着应该也可以通过style来改变图片属性 （在Markdown图片语法中使用HTML属性style，并为其设置float:left属性），比如</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![image](image-url.png)&#123;style=&quot;float:left; margin-right:10px;&quot;&#125;</span><br></pre></td></tr></table></figure><p>下面来演示</p><h3 id="正常居中"><a href="#正常居中" class="headerlink" title="正常居中"></a>正常居中</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">这是图片文字</span><br><span class="line">&lt;img src=&quot;https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png&quot; alt=&quot;CleanShot 2023-05-13 at 18.33.20@2x&quot; style=&quot;zoom: 33%&quot; /&gt;</span><br></pre></td></tr></table></figure><p>这是图片文字<br><img src="https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png" alt="CleanShot 2023-05-13 at 18.33.20@2x" style="zoom: 33%" /></p><h3 id="图片居左"><a href="#图片居左" class="headerlink" title="图片居左"></a>图片居左</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">这是图片文字</span><br><span class="line">&lt;img src=&quot;https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png&quot; alt=&quot;CleanShot 2023-05-13 at 18.33.20@2x&quot; style=&quot;zoom: 33%;float:left; margin-right:10px;&quot; /&gt;&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure><p>这是图片文字<br><img src="https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png" alt="CleanShot 2023-05-13 at 18.33.20@2x" style="zoom: 33%;float:left; margin-right:10px;" /><div style="clear:both;"></div></p><p><strong>注意这里我多放了一行代码</strong><br>是因为上面这种方法会将图片从正常的文本流中解脱出来，并让周围的文本围绕其它的边缘流动。如果想让图片重新回到正常的文本流中，需要在图片下面插入一个元素，以清除浮动效果。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure><h4 id="问题排版"><a href="#问题排版" class="headerlink" title="问题排版"></a>问题排版</h4><p>可见这里的文本被放置到了图片右边</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">这是图片文字&lt;img src=&quot;https://s2.loli.net/2023/05/13/QBp837tamDwIXHh.png&quot; alt=&quot;CleanShot 2023-05-13 at 18.33.20@2x&quot; style=&quot;zoom: 33%;float:left; margin-right:10px;&quot; /&gt;&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure><p>这是图片文字<img src="https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png" alt="CleanShot 2023-05-13 at 18.33.20@2x" style="zoom: 33%;float:left; margin-right:10px;" /><div style="clear:both;"></div></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="让Markdown中的图片靠左放置"><a href="#让Markdown中的图片靠左放置" class="headerlink" title="让Markdown中的图片靠左放置"></a>让Markdown中的图片靠左放置</h1><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>在markdown中可以用<code>&lt;img src=&quot;图片地址&quot;&gt;</code>来放置图片</p><p>也就意味着应该也可以通过style来改变图片属性 （在Markdown图片语法中使用HTML属性style，并为其设置float:left属性），比如</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![image](image-url.png)&#123;style=&quot;float:left; margin-right:10px;&quot;&#125;</span><br></pre></td></tr></table></figure><p>下面来演示</p><h3 id="正常居中"><a href="#正常居中" class="headerlink" title="正常居中"></a>正常居中</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">这是图片文字</span><br><span class="line">&lt;img src=&quot;https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png&quot; alt=&quot;CleanShot 2023-05-13 at 18.33.20@2x&quot; style=&quot;zoom: 33%&quot; /&gt;</span><br></pre></td></tr></table></figure><p>这是图片文字<br><img src="https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png" alt="CleanShot 2023-05-13 at 18.33.20@2x" style="zoom: 33%" /></p><h3 id="图片居左"><a href="#图片居左" class="headerlink" title="图片居左"></a>图片居左</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">这是图片文字</span><br><span class="line">&lt;img src=&quot;https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png&quot; alt=&quot;CleanShot 2023-05-13 at 18.33.20@2x&quot; style=&quot;zoom: 33%;float:left; margin-right:10px;&quot; /&gt;&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure><p>这是图片文字<br><img src="https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png" alt="CleanShot 2023-05-13 at 18.33.20@2x" style="zoom: 33%;float:left; margin-right:10px;" /><div style="clear:both;"></div></p><mark class="hl-label orange">注意这里我多放了一行代码</mark> <p>是因为上面这种方法会将图片从正常的文本流中解脱出来，并让周围的文本围绕其它的边缘流动。如果想让图片重新回到正常的文本流中，需要在图片下面插入一个元素，以清除浮动效果。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure><h4 id="问题排版"><a href="#问题排版" class="headerlink" title="问题排版"></a>问题排版</h4><p>可见这里的文本被放置到了图片右边</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">这是图片文字&lt;img src=&quot;https://s2.loli.net/2023/05/13/QBp837tamDwIXHh.png&quot; alt=&quot;CleanShot 2023-05-13 at 18.33.20@2x&quot; style=&quot;zoom: 33%;float:left; margin-right:10px;&quot; /&gt;&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure><p>这是图片文字<img src="https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png" alt="CleanShot 2023-05-13 at 18.33.20@2x" style="zoom: 33%;float:left; margin-right:10px;" /><div style="clear:both;"></div></p><hr><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>要想让Markdown中的图片靠左放置，可以用</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![image](image-url.png)&#123;style=&quot;float:left; margin-right:10px;&quot;&#125; &lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure>]]></content>
       
       
       <categories>
