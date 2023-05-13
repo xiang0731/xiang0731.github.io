@@ -318,6 +318,33 @@
     
     
     <entry>
+      <title>用Picgo+Github打造私人图床</title>
+      <link href="/2023/04/26/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7Picgo/230426%20%E7%94%A8picgo+github%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/"/>
+      <url>/2023/04/26/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7Picgo/230426%20%E7%94%A8picgo+github%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</url>
+      
+        <content type="html"><![CDATA[<h1 id="用Picgo-Github打造私人图床"><a href="#用Picgo-Github打造私人图床" class="headerlink" title="用Picgo+Github打造私人图床"></a>用Picgo+Github打造私人图床</h1><h3 id="配置github"><a href="#配置github" class="headerlink" title="配置github"></a>配置github</h3><p>创建repository</p><p><img src="https://s2.loli.net/2023/04/26/I5maVGnNEX4yOoB.png" alt="image-20230425163835257"></p><p>设置基本信息，点击create repository</p><p><img src="https://s2.loli.net/2023/04/25/XoT6HGI71JgU54u.png" alt="image-20230425164309027"></p><p>点击头像，选择setting，然后在左侧找到Developer settings，点击它</p><p><img src="https://s2.loli.net/2023/04/25/Nv5PsMLok1pmCzx.png" alt="image-20230425165215589"></p><p>点击生成new token</p><p><img src="https://s2.loli.net/2023/04/25/an79Yk648livKJS.png" alt="image-20230425165458953"></p><p>这个时候会要求验证（属于正常情况，验证即可。）</p><p><img src="https://s2.loli.net/2023/04/25/M9loFnWDmK1OPjN.png" alt="image-20230425165526974"></p><p>这里填写Note（给token备注），选择Expiration（有效时间），勾选repo（给予权限）</p><p><img src="https://s2.loli.net/2023/04/25/NTBRIG4iCoJ3l9e.png" alt="image-20230425171906228"></p><p>拉到最后，点击Generate token</p><p><img src="https://s2.loli.net/2023/04/25/GIp4isPaQhUFWBo.png" alt="image-20230425171933500"></p><p>会生成一条token（记得保存！！！只显示一次，后续无法再显示。）</p><p><img src="https://s2.loli.net/2023/04/25/FHrzuQf7ESiRqDo.png" alt="image-20230425172215264"></p><h3 id="配置Picgo"><a href="#配置Picgo" class="headerlink" title="配置Picgo"></a>配置Picgo</h3><p>仓库名：这个直接就是github名字&#x2F;仓库名字</p><p>设定分支名：目前github默认用main</p><p>设定Token：用上面步骤生成的</p><p>设定存储路径：如果要放文件夹里就写文件夹路径，留空就放根目录</p><p>设定自定义域名：这个可以使用Jsdelivr加速使用，也可以不填</p><p><img src="https://s2.loli.net/2023/04/26/NQRWPma7OnleE1C.png" alt="image-20230426012253633"></p><p>以上填写完了之后，点击“确定”，再点击”设为默认图床“，就可以拿github作为图床使用了</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 图片上传工具Picgo </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Github </tag>
+            
+            <tag> Picgo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hexo将文章超链接放到导航栏</title>
       <link href="/2023/04/26/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E5%B0%86%E6%96%87%E7%AB%A0%E8%B6%85%E9%93%BE%E6%8E%A5%E6%94%BE%E5%88%B0%E5%AF%BC%E8%88%AA%E6%A0%8F/"/>
       <url>/2023/04/26/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E5%B0%86%E6%96%87%E7%AB%A0%E8%B6%85%E9%93%BE%E6%8E%A5%E6%94%BE%E5%88%B0%E5%AF%BC%E8%88%AA%E6%A0%8F/</url>
@@ -368,33 +395,6 @@
             <tag> Butterfly </tag>
             
             <tag> 自用 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>用Picgo+Github打造私人图床</title>
-      <link href="/2023/04/26/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7Picgo/230426%20%E7%94%A8picgo+github%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/"/>
-      <url>/2023/04/26/%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7Picgo/230426%20%E7%94%A8picgo+github%E6%89%93%E9%80%A0%E7%A7%81%E4%BA%BA%E5%9B%BE%E5%BA%8A/</url>
-      
-        <content type="html"><![CDATA[<h1 id="用Picgo-Github打造私人图床"><a href="#用Picgo-Github打造私人图床" class="headerlink" title="用Picgo+Github打造私人图床"></a>用Picgo+Github打造私人图床</h1><h3 id="配置github"><a href="#配置github" class="headerlink" title="配置github"></a>配置github</h3><p>创建repository</p><p><img src="https://s2.loli.net/2023/04/26/I5maVGnNEX4yOoB.png" alt="image-20230425163835257"></p><p>设置基本信息，点击create repository</p><p><img src="https://s2.loli.net/2023/04/25/XoT6HGI71JgU54u.png" alt="image-20230425164309027"></p><p>点击头像，选择setting，然后在左侧找到Developer settings，点击它</p><p><img src="https://s2.loli.net/2023/04/25/Nv5PsMLok1pmCzx.png" alt="image-20230425165215589"></p><p>点击生成new token</p><p><img src="https://s2.loli.net/2023/04/25/an79Yk648livKJS.png" alt="image-20230425165458953"></p><p>这个时候会要求验证（属于正常情况，验证即可。）</p><p><img src="https://s2.loli.net/2023/04/25/M9loFnWDmK1OPjN.png" alt="image-20230425165526974"></p><p>这里填写Note（给token备注），选择Expiration（有效时间），勾选repo（给予权限）</p><p><img src="https://s2.loli.net/2023/04/25/NTBRIG4iCoJ3l9e.png" alt="image-20230425171906228"></p><p>拉到最后，点击Generate token</p><p><img src="https://s2.loli.net/2023/04/25/GIp4isPaQhUFWBo.png" alt="image-20230425171933500"></p><p>会生成一条token（记得保存！！！只显示一次，后续无法再显示。）</p><p><img src="https://s2.loli.net/2023/04/25/FHrzuQf7ESiRqDo.png" alt="image-20230425172215264"></p><h3 id="配置Picgo"><a href="#配置Picgo" class="headerlink" title="配置Picgo"></a>配置Picgo</h3><p>仓库名：这个直接就是github名字&#x2F;仓库名字</p><p>设定分支名：目前github默认用main</p><p>设定Token：用上面步骤生成的</p><p>设定存储路径：如果要放文件夹里就写文件夹路径，留空就放根目录</p><p>设定自定义域名：这个可以使用Jsdelivr加速使用，也可以不填</p><p><img src="https://s2.loli.net/2023/04/26/NQRWPma7OnleE1C.png" alt="image-20230426012253633"></p><p>以上填写完了之后，点击“确定”，再点击”设为默认图床“，就可以拿github作为图床使用了</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 图片上传工具Picgo </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Github </tag>
-            
-            <tag> Picgo </tag>
             
         </tags>
       
@@ -489,6 +489,33 @@
       <url>/2023/04/16/Markdown%E4%BB%8E0%E5%88%B01/230416%20Markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95/</url>
       
         <content type="html"><![CDATA[<h1 id="Markdown常用语法"><a href="#Markdown常用语法" class="headerlink" title="Markdown常用语法"></a>Markdown常用语法</h1><h3 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># 一级标题</span><br><span class="line">## 二级标题</span><br><span class="line">### 三级标题</span><br></pre></td></tr></table></figure><p>由于这个会影响文章效果，就不放预览啦</p><h3 id="段落"><a href="#段落" class="headerlink" title="段落"></a>段落</h3><p>每一行为一段，空行就可以。</p><h3 id="加粗"><a href="#加粗" class="headerlink" title="加粗"></a>加粗</h3><p>通过“**”来达到加粗效果</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">**加粗内容**</span><br></pre></td></tr></table></figure><p><strong>加粗内容</strong></p><h3 id="删除线"><a href="#删除线" class="headerlink" title="删除线"></a>删除线</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">~~删除线~~</span><br></pre></td></tr></table></figure><p><del>删除线</del></p><h3 id="下划线"><a href="#下划线" class="headerlink" title="下划线"></a>下划线</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;u&gt;下面有条线&lt;/u&gt;</span><br></pre></td></tr></table></figure><p><u>下面有条线</u></p><h3 id="超链接"><a href="#超链接" class="headerlink" title="超链接"></a>超链接</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[显示内容](超链接地址https://test.com)</span><br></pre></td></tr></table></figure><p><a href="WWW.GOOGLE.COM">Google</a></p><h3 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![图片描述](图片地址https://test.com)</span><br></pre></td></tr></table></figure><p>这里也不展示了</p><h3 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h3><p>用<code>序号. 文字</code>来表示，次级的需要和首级的字对齐</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1. 列表</span><br><span class="line">2. 列表</span><br><span class="line">   1. 列表</span><br></pre></td></tr></table></figure><ol><li>列表</li><li>列表<ol><li>列表</li></ol></li></ol><h3 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h3><p>用<code>- 文字</code>来表示，次级的需要和首级的字对齐</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">- 列表</span><br><span class="line">  - 列表</span><br></pre></td></tr></table></figure><ul><li>列表<ul><li>列表</li></ul></li></ul><h3 id="锚点"><a href="#锚点" class="headerlink" title="锚点"></a>锚点</h3><p>锚点的作用是标记文档中的特定位置，使用锚点可以跳转到当前文档或其他文档中指定的标记位置（可以理解为相对链接）。锚点常见于目录链接，因此有时候也称其为书签。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[锚点描述](#锚点名)</span><br></pre></td></tr></table></figure><p><a href="#%E9%94%9A%E7%82%B9%E5%90%8D">锚点描述</a></p><h4 id="语法说明"><a href="#语法说明" class="headerlink" title="语法说明"></a>语法说明</h4><p>锚点名不能有空格；<br>锚点名不能有特殊字符；<br>锚点名区分大小写英文字母；<br>锚点名建议使用字母和数字，也可以使用中文，不过要留意你所使用的编辑器或部署的网站是否支持。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># 目录</span><br><span class="line">- [第1章](Chapter1.md)</span><br><span class="line">- [第1章 第1节](Chapter1.md#Section1)</span><br></pre></td></tr></table></figure><p>在 Chapter1.md 文档中，创建 Section1 和 Section2 标题</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># Chapter1</span><br><span class="line">## Section1</span><br><span class="line">## Section2</span><br></pre></td></tr></table></figure><h3 id="目录"><a href="#目录" class="headerlink" title="目录"></a>目录</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">@[toc]</span><br></pre></td></tr></table></figure><p>固定表示，这里也不展示啦</p><h3 id="内联代码"><a href="#内联代码" class="headerlink" title="内联代码"></a>内联代码</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">这是一个`TEST`</span><br></pre></td></tr></table></figure><p>这是一个<code>TEST</code></p><h3 id="代码块"><a href="#代码块" class="headerlink" title="代码块"></a>代码块</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">```</span><br><span class="line">代码</span><br><span class="line">```</span><br></pre></td></tr></table></figure><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">代码</span><br></pre></td></tr></table></figure><h3 id="在代码块中插入反引号-96"><a href="#在代码块中插入反引号-96" class="headerlink" title="在代码块中插入反引号&#96;"></a>在代码块中插入反引号&#96;</h3><p>用四个反引号分别代替三个反引号作为开始和结束的代码</p><h3 id="任务"><a href="#任务" class="headerlink" title="任务"></a>任务</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">- [ ] task1</span><br><span class="line">- [x] task2</span><br></pre></td></tr></table></figure><ul><li><input disabled="" type="checkbox"> task1</li><li><input checked="" disabled="" type="checkbox"> task2</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> Markdown从0到1 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教程 </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>让Markdown中的图片靠左放置</title>
+      <link href="/2023/04/16/Markdown%E4%BB%8E0%E5%88%B01/230513%20%E8%AE%A9Markdown%E4%B8%AD%E7%9A%84%E5%9B%BE%E7%89%87%E9%9D%A0%E5%B7%A6%E6%94%BE%E7%BD%AE/"/>
+      <url>/2023/04/16/Markdown%E4%BB%8E0%E5%88%B01/230513%20%E8%AE%A9Markdown%E4%B8%AD%E7%9A%84%E5%9B%BE%E7%89%87%E9%9D%A0%E5%B7%A6%E6%94%BE%E7%BD%AE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="让Markdown中的图片靠左放置"><a href="#让Markdown中的图片靠左放置" class="headerlink" title="让Markdown中的图片靠左放置"></a>让Markdown中的图片靠左放置</h1><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>在markdown中可以用<img src="图片地址">来放置图片</p><p>也就意味着应该也可以通过style来改变图片属性 （在Markdown图片语法中使用HTML属性style，并为其设置float:left属性），比如</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">![image](image-url.png)&#123;style=&quot;float:left; margin-right:10px;&quot;&#125;</span><br></pre></td></tr></table></figure><p>下面来演示</p><h3 id="正常居中"><a href="#正常居中" class="headerlink" title="正常居中"></a>正常居中</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">这是图片文字</span><br><span class="line">&lt;img src=&quot;https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png&quot; alt=&quot;CleanShot 2023-05-13 at 18.33.20@2x&quot; style=&quot;zoom: 33%&quot; /&gt;</span><br></pre></td></tr></table></figure><p>这是图片文字<br><img src="https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png" alt="CleanShot 2023-05-13 at 18.33.20@2x" style="zoom: 33%" /></p><h3 id="图片居左"><a href="#图片居左" class="headerlink" title="图片居左"></a>图片居左</h3><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">这是图片文字</span><br><span class="line">&lt;img src=&quot;https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png&quot; alt=&quot;CleanShot 2023-05-13 at 18.33.20@2x&quot; style=&quot;zoom: 33%;float:left; margin-right:10px;&quot; /&gt;&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure><p>这是图片文字<br><img src="https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png" alt="CleanShot 2023-05-13 at 18.33.20@2x" style="zoom: 33%;float:left; margin-right:10px;" /><div style="clear:both;"></div></p><p><strong>注意这里我多放了一行代码</strong><br>是因为上面这种方法会将图片从正常的文本流中解脱出来，并让周围的文本围绕其它的边缘流动。如果想让图片重新回到正常的文本流中，需要在图片下面插入一个元素，以清除浮动效果。</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure><h4 id="问题排版"><a href="#问题排版" class="headerlink" title="问题排版"></a>问题排版</h4><p>可见这里的文本被放置到了图片右边</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">这是图片文字&lt;img src=&quot;https://s2.loli.net/2023/05/13/QBp837tamDwIXHh.png&quot; alt=&quot;CleanShot 2023-05-13 at 18.33.20@2x&quot; style=&quot;zoom: 33%;float:left; margin-right:10px;&quot; /&gt;&lt;div style=&quot;clear:both;&quot;&gt;&lt;/div&gt;</span><br></pre></td></tr></table></figure><p>这是图片文字<img src="https://s2.loli.net/2023/05/13/Vy3UC6qPJg57xG8.png" alt="CleanShot 2023-05-13 at 18.33.20@2x" style="zoom: 33%;float:left; margin-right:10px;" /><div style="clear:both;"></div></p>]]></content>
       
       
       <categories>
