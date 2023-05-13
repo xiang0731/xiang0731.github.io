@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>威联通拒绝连接请求</title>
+      <link href="/2023/05/12/NAS%E7%9B%B8%E5%85%B3/230512%20%E5%A8%81%E8%81%94%E9%80%9A%E6%8B%92%E7%BB%9D%E8%BF%9E%E6%8E%A5%E8%AF%B7%E6%B1%82/"/>
+      <url>/2023/05/12/NAS%E7%9B%B8%E5%85%B3/230512%20%E5%A8%81%E8%81%94%E9%80%9A%E6%8B%92%E7%BB%9D%E8%BF%9E%E6%8E%A5%E8%AF%B7%E6%B1%82/</url>
+      
+        <content type="html"><![CDATA[<h2 id="威联通拒绝连接请求"><a href="#威联通拒绝连接请求" class="headerlink" title="威联通拒绝连接请求"></a>威联通拒绝连接请求</h2><p>这种情况，我是等了一段时间就可以了。</p><p>猜测是刚开机需要时间初始化。</p><p><img src="https://s2.loli.net/2023/05/12/SF32gYKCPsDRub9.png" alt="CleanShot 2023-05-12 at 10.35.27@2x"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> NAS相关 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 问题解决 </tag>
+            
+            <tag> 威联通QNAP </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>苹果如何创建APP专用密码</title>
       <link href="/2023/05/09/Apple%E7%9B%B8%E5%85%B3/230509%20%E8%8B%B9%E6%9E%9C%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BAAPP%E4%B8%93%E7%94%A8%E5%AF%86%E7%A0%81/"/>
       <url>/2023/05/09/Apple%E7%9B%B8%E5%85%B3/230509%20%E8%8B%B9%E6%9E%9C%E5%A6%82%E4%BD%95%E5%88%9B%E5%BB%BAAPP%E4%B8%93%E7%94%A8%E5%AF%86%E7%A0%81/</url>
@@ -222,9 +249,9 @@
       
         <tags>
             
-            <tag> Hexo </tag>
-            
             <tag> Blog </tag>
+            
+            <tag> Hexo </tag>
             
         </tags>
       
@@ -389,19 +416,6 @@
             <tag> Markdown </tag>
             
         </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hi</title>
-      <link href="/2023/04/09/230409%20Hi/"/>
-      <url>/2023/04/09/230409%20Hi/</url>
-      
-        <content type="html"><![CDATA[<p>对，你没猜错，这是一个新新新新新的博客，会逐渐把我的文章迁移进来。</p>]]></content>
-      
-      
       
     </entry>
     
