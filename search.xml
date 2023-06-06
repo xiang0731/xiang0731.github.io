@@ -20,9 +20,9 @@
       
         <tags>
             
-            <tag> 科普教程 </tag>
-            
             <tag> Apple </tag>
+            
+            <tag> 科普教程 </tag>
             
             <tag> iWatch </tag>
             
@@ -49,9 +49,9 @@
       
         <tags>
             
-            <tag> Mac </tag>
-            
             <tag> Apple </tag>
+            
+            <tag> Mac </tag>
             
         </tags>
       
@@ -101,11 +101,11 @@
       
         <tags>
             
-            <tag> 问题解决 </tag>
+            <tag> Apple </tag>
             
             <tag> Mac </tag>
             
-            <tag> Apple </tag>
+            <tag> 问题解决 </tag>
             
         </tags>
       
@@ -157,9 +157,9 @@
       
         <tags>
             
-            <tag> RAID </tag>
-            
             <tag> 科普教程 </tag>
+            
+            <tag> RAID </tag>
             
         </tags>
       
@@ -195,33 +195,6 @@
     
     
     <entry>
-      <title>干掉输入法中的”·“</title>
-      <link href="/2023/05/13/Ah%EF%BC%81%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%9F/230513%20%E5%B9%B2%E6%8E%89%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AD%E7%9A%84%E2%80%9D%C2%B7%E2%80%9C/"/>
-      <url>/2023/05/13/Ah%EF%BC%81%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%9F/230513%20%E5%B9%B2%E6%8E%89%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AD%E7%9A%84%E2%80%9D%C2%B7%E2%80%9C/</url>
-      
-        <content type="html"><![CDATA[<h1 id="干掉输入法中的”·“"><a href="#干掉输入法中的”·“" class="headerlink" title="干掉输入法中的”·“"></a>干掉输入法中的”·“</h1><h3 id="痛点"><a href="#痛点" class="headerlink" title="痛点"></a>痛点</h3><p>因为用markdown写作</p><p>常常想输入</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`</span><br></pre></td></tr></table></figure><p>的时候老是输入到</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">·</span><br></pre></td></tr></table></figure><h3 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h3><p>我是用的搜狗，在输入法设置里找到<code>符号替换设置</code>，在里面把这两个符号添加上去，保存即可。</p><p>后面就不会输出到”·“啦（如果有需要的时候再把这个关掉）</p><p><img src="https://s2.loli.net/2023/05/13/SuerZTayWCBYwLm.png" alt="CleanShot 2023-05-13 at 15.14.47"></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Ah！是什么？为什么？做什么？ </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 问题解决 </tag>
-            
-            <tag> 科普教程 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>让Markdown中的图片靠左放置</title>
       <link href="/2023/05/13/Markdown%E4%BB%8E0%E5%88%B01/230513%20%E8%AE%A9Markdown%E4%B8%AD%E7%9A%84%E5%9B%BE%E7%89%87%E9%9D%A0%E5%B7%A6%E6%94%BE%E7%BD%AE/"/>
       <url>/2023/05/13/Markdown%E4%BB%8E0%E5%88%B01/230513%20%E8%AE%A9Markdown%E4%B8%AD%E7%9A%84%E5%9B%BE%E7%89%87%E9%9D%A0%E5%B7%A6%E6%94%BE%E7%BD%AE/</url>
@@ -249,6 +222,33 @@
     
     
     <entry>
+      <title>干掉输入法中的”·“</title>
+      <link href="/2023/05/13/Ah%EF%BC%81%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%9F/230513%20%E5%B9%B2%E6%8E%89%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AD%E7%9A%84%E2%80%9D%C2%B7%E2%80%9C/"/>
+      <url>/2023/05/13/Ah%EF%BC%81%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%9F/230513%20%E5%B9%B2%E6%8E%89%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AD%E7%9A%84%E2%80%9D%C2%B7%E2%80%9C/</url>
+      
+        <content type="html"><![CDATA[<h1 id="干掉输入法中的”·“"><a href="#干掉输入法中的”·“" class="headerlink" title="干掉输入法中的”·“"></a>干掉输入法中的”·“</h1><h3 id="痛点"><a href="#痛点" class="headerlink" title="痛点"></a>痛点</h3><p>因为用markdown写作</p><p>常常想输入</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`</span><br></pre></td></tr></table></figure><p>的时候老是输入到</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">·</span><br></pre></td></tr></table></figure><h3 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h3><p>我是用的搜狗，在输入法设置里找到<code>符号替换设置</code>，在里面把这两个符号添加上去，保存即可。</p><p>后面就不会输出到”·“啦（如果有需要的时候再把这个关掉）</p><p><img src="https://s2.loli.net/2023/05/13/SuerZTayWCBYwLm.png" alt="CleanShot 2023-05-13 at 15.14.47"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Ah！是什么？为什么？做什么？ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 科普教程 </tag>
+            
+            <tag> 问题解决 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>威联通拒绝连接请求</title>
       <link href="/2023/05/12/Ah%EF%BC%81%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%9F/230512%20%E5%A8%81%E8%81%94%E9%80%9A%E6%8B%92%E7%BB%9D%E8%BF%9E%E6%8E%A5%E8%AF%B7%E6%B1%82/"/>
       <url>/2023/05/12/Ah%EF%BC%81%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%9F/230512%20%E5%A8%81%E8%81%94%E9%80%9A%E6%8B%92%E7%BB%9D%E8%BF%9E%E6%8E%A5%E8%AF%B7%E6%B1%82/</url>
@@ -265,9 +265,9 @@
       
         <tags>
             
-            <tag> NAS-威联通QNAP </tag>
-            
             <tag> 问题解决 </tag>
+            
+            <tag> NAS-威联通QNAP </tag>
             
         </tags>
       
@@ -292,9 +292,9 @@
       
         <tags>
             
-            <tag> 科普教程 </tag>
-            
             <tag> Apple </tag>
+            
+            <tag> 科普教程 </tag>
             
         </tags>
       
@@ -375,11 +375,11 @@
             
             <tag> 科普教程 </tag>
             
-            <tag> 自用 </tag>
-            
             <tag> Hexo </tag>
             
             <tag> Butterfly </tag>
+            
+            <tag> 自用 </tag>
             
         </tags>
       
@@ -431,9 +431,9 @@
       
         <tags>
             
-            <tag> 科普教程 </tag>
-            
             <tag> Mac </tag>
+            
+            <tag> 科普教程 </tag>
             
         </tags>
       
@@ -458,9 +458,9 @@
       
         <tags>
             
-            <tag> 科普教程 </tag>
-            
             <tag> Mac </tag>
+            
+            <tag> 科普教程 </tag>
             
         </tags>
       
@@ -552,9 +552,9 @@
       
         <tags>
             
-            <tag> Github </tag>
-            
             <tag> Picgo </tag>
+            
+            <tag> Github </tag>
             
         </tags>
       
@@ -608,11 +608,11 @@
             
             <tag> 科普教程 </tag>
             
-            <tag> 自用 </tag>
-            
             <tag> Hexo </tag>
             
             <tag> Butterfly </tag>
+            
+            <tag> 自用 </tag>
             
         </tags>
       
@@ -693,9 +693,9 @@
       
         <tags>
             
-            <tag> 问题解决 </tag>
-            
             <tag> 科普教程 </tag>
+            
+            <tag> 问题解决 </tag>
             
             <tag> 自用 </tag>
             
@@ -774,11 +774,11 @@
       
         <tags>
             
-            <tag> 科普教程 </tag>
+            <tag> Apple </tag>
             
             <tag> Mac </tag>
             
-            <tag> Apple </tag>
+            <tag> 科普教程 </tag>
             
         </tags>
       
@@ -843,33 +843,6 @@
     
     
     <entry>
-      <title>圣堂攻略-佣兵篇</title>
-      <link href="/2022/01/08/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220108%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E4%BD%A3%E5%85%B5%E7%AF%87/"/>
-      <url>/2022/01/08/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220108%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E4%BD%A3%E5%85%B5%E7%AF%87/</url>
-      
-        <content type="html"><![CDATA[<h1 id="圣堂攻略-佣兵篇"><a href="#圣堂攻略-佣兵篇" class="headerlink" title="圣堂攻略-佣兵篇"></a>圣堂攻略-佣兵篇</h1><h3 id="装备"><a href="#装备" class="headerlink" title="装备"></a>装备</h3><p>20级白装，强化+20。能用到弃坑…</p><h3 id="升星"><a href="#升星" class="headerlink" title="升星"></a>升星</h3><p>优先升级到11星，属性会增长10倍</p><p>法师职业的佣兵升级路径：先猎人11星，然后战士11星，然后法师15星，战士15星，猎人15星。</p><p>11星以后就不兑换橙色经验书也不合成，节约钻石 </p><h3 id="技能"><a href="#技能" class="headerlink" title="技能"></a>技能</h3><p>战士：破甲10级-雷霆震击9级</p><p>猎人：大毒1级-眩晕射击9级</p><p>法师：我不上场谢谢</p><h3 id="套装"><a href="#套装" class="headerlink" title="套装"></a>套装</h3><p>优先弄4件240套，随便哪个部位都可以，哪个容易弄哪个，不用加强化（主要吃套装属性）</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 圣堂游戏相关 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 圣堂 </tag>
-            
-            <tag> 游戏 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>圣堂攻略-套装篇</title>
       <link href="/2022/01/07/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220107%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E5%A5%97%E8%A3%85%E7%AF%87/"/>
       <url>/2022/01/07/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220107%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E5%A5%97%E8%A3%85%E7%AF%87/</url>
@@ -901,7 +874,7 @@
       <link href="/2022/01/06/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220106%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E7%A5%9E%E5%99%A8%E7%AF%87/"/>
       <url>/2022/01/06/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220106%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E7%A5%9E%E5%99%A8%E7%AF%87/</url>
       
-        <content type="html"><![CDATA[<h1 id="圣堂攻略-神器篇"><a href="#圣堂攻略-神器篇" class="headerlink" title="圣堂攻略-神器篇"></a>圣堂攻略-神器篇</h1><h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>神器分为两类：普通神器，声望神器。他们有不同的特效。</p><p>可以通过神器融合将两种不同的神器融合到一件装备上</p><table><thead><tr><th></th><th>普通</th><th>声望</th></tr></thead><tbody><tr><td>获取方式</td><td>熔炼装备随机出&#x2F;合成神器碎片</td><td>声望打造(需要声望+熔炼值)</td></tr><tr><td>升级顺序</td><td>鞋子（经验）——项链（出装概率）或戒指（金币）这2个可以平均升级——手套（暴击伤害）——腰带（血）——武器（吸血）——头盔（回血）——副手（破甲）——衣服（可升可不升）</td><td>先升武器（加攻击）！！！！再升衣服加护甲。</td></tr><tr><td></td><td></td><td></td></tr></tbody></table><h3 id="神器特效"><a href="#神器特效" class="headerlink" title="神器特效"></a>神器特效</h3><table><thead><tr><th>部位</th><th>普通</th><th>声望</th></tr></thead><tbody><tr><td>主手</td><td>吸血</td><td>伤害值</td></tr><tr><td>副手</td><td>护甲穿透</td><td>命中值</td></tr><tr><td>戒指</td><td>金币加成</td><td>魔抗穿透</td></tr><tr><td>腰带</td><td>生命值</td><td>韧性值</td></tr><tr><td>裤子</td><td>反伤</td><td>物抗穿透</td></tr><tr><td>鞋子</td><td>经验加成</td><td>闪避值</td></tr><tr><td>手套</td><td>暴击伤害</td><td>暴击值</td></tr><tr><td>头盔</td><td>回血</td><td>物抗值</td></tr><tr><td>衣服</td><td>免控</td><td>护甲值</td></tr><tr><td>项链</td><td>装备掉落</td><td>魔抗值</td></tr></tbody></table><h3 id="神器升级"><a href="#神器升级" class="headerlink" title="神器升级"></a>神器升级</h3><p>神器升级只能依靠吞噬神器，不同级别需要的能量不同（我整理了1-20级的所有能量在下面表格，可以对照参考。）</p><p>比如：</p><p><code>1级-0</code>的神器吞噬了一个1级的神器，它就会变成<code>2级-0</code>，计算公式为1+1&#x3D;2</p><p><code>2级-0</code>的神器吞噬了三个1级的神器，它就会变成<code>3级-0</code>，计算公式为2+1x3&#x3D;5</p><p><code>2级-0</code>的神器吞噬了一个2级的神器，它就会变成<code>2级-2</code>，计算公式为2+2x1&#x3D;4</p><table><thead><tr><th>级数</th><th>当前总能量</th><th>进度</th></tr></thead><tbody><tr><td>1</td><td>1</td><td>1</td></tr><tr><td>2</td><td>2</td><td>3</td></tr><tr><td>3</td><td>5</td><td>5</td></tr><tr><td>4</td><td>10</td><td>7</td></tr><tr><td>5</td><td>17</td><td>9</td></tr><tr><td>6</td><td>26</td><td>12</td></tr><tr><td>7</td><td>38</td><td>15</td></tr><tr><td>8</td><td>53</td><td>18</td></tr><tr><td>9</td><td>71</td><td>21</td></tr><tr><td>10</td><td>92</td><td>24</td></tr><tr><td>11</td><td>116</td><td>28</td></tr><tr><td>12</td><td>144</td><td>32</td></tr><tr><td>13</td><td>176</td><td>36</td></tr><tr><td>14</td><td>212</td><td>40</td></tr><tr><td>15</td><td>252</td><td>45</td></tr><tr><td>16</td><td>297</td><td>52</td></tr><tr><td>17</td><td>349</td><td>61</td></tr><tr><td>18</td><td>410</td><td>72</td></tr><tr><td>19</td><td>482</td><td>88</td></tr><tr><td>20</td><td>570</td><td>&#x2F;</td></tr></tbody></table><h3 id="升级技巧"><a href="#升级技巧" class="headerlink" title="升级技巧"></a>升级技巧</h3><p>当你一个神器达到15级的时候就不能单独升级了，要其他部位的全部达到15级了才能升级。14级卡BUG的操作就是14级的时候吞噬一个14级+一个12级+2个散件神器直接升到20级</p><p>原理就是，只要堆满20级的能量就可以了。</p><p>为此，我还专门弄了一个计算器 <a href="https://xiang0731.github.io/Shengtang/">https://xiang0731.github.io/Shengtang/</a> ，输入需要升级的神器和材料等级，即可计算出剩余所需的材料。</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="圣堂攻略-神器篇"><a href="#圣堂攻略-神器篇" class="headerlink" title="圣堂攻略-神器篇"></a>圣堂攻略-神器篇</h1><p>更多信息详见 <a href="http://xiang0731.github.io/2022/01/01/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220101%20%E5%9C%A3%E5%A0%82%E5%AF%BC%E8%88%AA/">圣堂导航</a></p><h3 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h3><p>神器分为两类：普通神器，声望神器。他们有不同的特效。</p><p>可以通过神器融合将两种不同的神器融合到一件装备上</p><table><thead><tr><th></th><th>普通</th><th>声望</th></tr></thead><tbody><tr><td>获取方式</td><td>熔炼装备随机出&#x2F;合成神器碎片</td><td>声望打造(需要声望+熔炼值)</td></tr><tr><td>升级顺序</td><td>鞋子（经验）——项链（出装概率）或戒指（金币）这2个可以平均升级——手套（暴击伤害）——腰带（血）——武器（吸血）——头盔（回血）——副手（破甲）——衣服（可升可不升）</td><td>先升武器（加攻击）！！！！再升衣服加护甲。</td></tr><tr><td></td><td></td><td></td></tr></tbody></table><h3 id="神器特效"><a href="#神器特效" class="headerlink" title="神器特效"></a>神器特效</h3><table><thead><tr><th>部位</th><th>普通</th><th>声望</th></tr></thead><tbody><tr><td>主手</td><td>吸血</td><td>伤害值</td></tr><tr><td>副手</td><td>护甲穿透</td><td>命中值</td></tr><tr><td>戒指</td><td>金币加成</td><td>魔抗穿透</td></tr><tr><td>腰带</td><td>生命值</td><td>韧性值</td></tr><tr><td>裤子</td><td>反伤</td><td>物抗穿透</td></tr><tr><td>鞋子</td><td>经验加成</td><td>闪避值</td></tr><tr><td>手套</td><td>暴击伤害</td><td>暴击值</td></tr><tr><td>头盔</td><td>回血</td><td>物抗值</td></tr><tr><td>衣服</td><td>免控</td><td>护甲值</td></tr><tr><td>项链</td><td>装备掉落</td><td>魔抗值</td></tr></tbody></table><h3 id="神器升级"><a href="#神器升级" class="headerlink" title="神器升级"></a>神器升级</h3><p>神器升级只能依靠吞噬神器，不同级别需要的能量不同（我整理了1-20级的所有能量在下面表格，可以对照参考。）</p><p>比如：</p><p><code>1级-0</code>的神器吞噬了一个1级的神器，它就会变成<code>2级-0</code>，计算公式为1+1&#x3D;2</p><p><code>2级-0</code>的神器吞噬了三个1级的神器，它就会变成<code>3级-0</code>，计算公式为2+1x3&#x3D;5</p><p><code>2级-0</code>的神器吞噬了一个2级的神器，它就会变成<code>2级-2</code>，计算公式为2+2x1&#x3D;4</p><table><thead><tr><th>级数</th><th>当前总能量</th><th>进度</th></tr></thead><tbody><tr><td>1</td><td>1</td><td>1</td></tr><tr><td>2</td><td>2</td><td>3</td></tr><tr><td>3</td><td>5</td><td>5</td></tr><tr><td>4</td><td>10</td><td>7</td></tr><tr><td>5</td><td>17</td><td>9</td></tr><tr><td>6</td><td>26</td><td>12</td></tr><tr><td>7</td><td>38</td><td>15</td></tr><tr><td>8</td><td>53</td><td>18</td></tr><tr><td>9</td><td>71</td><td>21</td></tr><tr><td>10</td><td>92</td><td>24</td></tr><tr><td>11</td><td>116</td><td>28</td></tr><tr><td>12</td><td>144</td><td>32</td></tr><tr><td>13</td><td>176</td><td>36</td></tr><tr><td>14</td><td>212</td><td>40</td></tr><tr><td>15</td><td>252</td><td>45</td></tr><tr><td>16</td><td>297</td><td>52</td></tr><tr><td>17</td><td>349</td><td>61</td></tr><tr><td>18</td><td>410</td><td>72</td></tr><tr><td>19</td><td>482</td><td>88</td></tr><tr><td>20</td><td>570</td><td>&#x2F;</td></tr></tbody></table><h3 id="升级技巧"><a href="#升级技巧" class="headerlink" title="升级技巧"></a>升级技巧</h3><p>当你一个神器达到15级的时候就不能单独升级了，要其他部位的全部达到15级了才能升级。14级卡BUG的操作就是14级的时候吞噬一个14级+一个12级+2个散件神器直接升到20级</p><p>原理就是，只要堆满20级的能量就可以了。</p><p>为此，我还专门弄了一个计算器 <a href="https://xiang0731.github.io/Shengtang/">https://xiang0731.github.io/Shengtang/</a> ，输入需要升级的神器和材料等级，即可计算出剩余所需的材料。</p><p>还有，升级神器之前最好先传承到低等级装备上，再进行吞噬，不然吞噬费用高到离谱，非常浪费。</p>]]></content>
       
       
       <categories>
@@ -928,7 +901,7 @@
       <link href="/2022/01/05/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220105%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1%E7%AF%87/"/>
       <url>/2022/01/05/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220105%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1%E7%AF%87/</url>
       
-        <content type="html"><![CDATA[<h1 id="圣堂攻略-每日任务篇"><a href="#圣堂攻略-每日任务篇" class="headerlink" title="圣堂攻略-每日任务篇"></a>圣堂攻略-每日任务篇</h1><p>每日必做，薅尽羊毛</p><table><thead><tr><th>任务</th><th>描述</th></tr></thead><tbody><tr><td>领特殊任务</td><td>金币的、珍币的全买。经验的、血脉丹看着买。</td></tr><tr><td>打名人堂</td><td></td></tr><tr><td>名人堂膜拜</td><td>2金1钻最划算，3金存钻石，3钻冲VIP。</td></tr><tr><td>领看广告奖励</td><td></td></tr><tr><td>领邮件世界boss奖励</td><td></td></tr><tr><td>领VIP奖励等</td><td>适当卡V</td></tr><tr><td>商店买东西</td><td>锤子，经验之书，装备宝箱，经验卡，声望</td></tr><tr><td>三塔扫荡</td><td>全扫</td></tr><tr><td>副本扫荡</td><td>活跃度任务，全扫</td></tr><tr><td>boss扫荡五次</td><td>活跃度任务</td></tr><tr><td>快速战斗三次</td><td>活跃度任务</td></tr><tr><td>打造装备一次</td><td>活跃度任务</td></tr><tr><td>熔炼装备20次</td><td>活跃度任务</td></tr><tr><td>回收（熔炼值+双神器）</td><td>3000w熔炼值+60件普通神器+18件声望神器</td></tr><tr><td>佣兵升星</td><td>每日把次数升完</td></tr><tr><td>矿场一键</td><td>VIP等级不够的时候2次就够了，一键和高级看着来</td></tr><tr><td>官职贡献</td><td>每日必贡献</td></tr><tr><td>领取活跃度奖励</td><td>领满200</td></tr><tr><td>开宝箱</td><td></td></tr><tr><td>给自己&#x2F;佣兵升级宝石</td><td></td></tr><tr><td>开多倍经验卡</td><td>卡多可以天天开，不够卡的话留到周五再开</td></tr><tr><td>重置精英时间</td><td>下线前必做</td></tr><tr><td>下线</td><td></td></tr></tbody></table>]]></content>
+        <content type="html"><![CDATA[<h1 id="圣堂攻略-每日任务篇"><a href="#圣堂攻略-每日任务篇" class="headerlink" title="圣堂攻略-每日任务篇"></a>圣堂攻略-每日任务篇</h1><p>更多信息详见 <a href="http://xiang0731.github.io/2022/01/01/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220101%20%E5%9C%A3%E5%A0%82%E5%AF%BC%E8%88%AA/">圣堂导航</a></p><h3 id="每日必做，薅尽羊毛"><a href="#每日必做，薅尽羊毛" class="headerlink" title="每日必做，薅尽羊毛"></a>每日必做，薅尽羊毛</h3><table><thead><tr><th>任务</th><th>描述</th></tr></thead><tbody><tr><td>领特殊任务</td><td>金币的、珍币的全买。经验的、血脉丹看着买。</td></tr><tr><td>打名人堂</td><td></td></tr><tr><td>名人堂膜拜</td><td>2金1钻最划算，3金存钻石，3钻冲VIP。</td></tr><tr><td>领看广告奖励</td><td></td></tr><tr><td>领邮件世界boss奖励</td><td></td></tr><tr><td>领VIP奖励等</td><td>适当卡V</td></tr><tr><td>商店买东西</td><td>锤子，经验之书，装备宝箱，经验卡，声望</td></tr><tr><td>三塔扫荡</td><td>全扫</td></tr><tr><td>副本扫荡</td><td>活跃度任务，全扫</td></tr><tr><td>boss扫荡五次</td><td>活跃度任务</td></tr><tr><td>快速战斗三次</td><td>活跃度任务</td></tr><tr><td>打造装备一次</td><td>活跃度任务</td></tr><tr><td>熔炼装备20次</td><td>活跃度任务</td></tr><tr><td>回收（熔炼值+双神器）</td><td>3000w熔炼值+60件普通神器+18件声望神器</td></tr><tr><td>佣兵升星</td><td>每日把次数升完</td></tr><tr><td>矿场一键</td><td>VIP等级不够的时候2次就够了，一键和高级看着来</td></tr><tr><td>官职贡献</td><td>每日必贡献</td></tr><tr><td>领取活跃度奖励</td><td>领满200</td></tr><tr><td>开宝箱</td><td></td></tr><tr><td>给自己&#x2F;佣兵升级宝石</td><td></td></tr><tr><td>开多倍经验卡</td><td>卡多可以天天开，不够卡的话留到周五再开</td></tr><tr><td>重置精英时间</td><td>下线前必做</td></tr><tr><td>下线</td><td></td></tr></tbody></table>]]></content>
       
       
       <categories>
@@ -951,11 +924,38 @@
     
     
     <entry>
-      <title>圣堂攻略-套装篇</title>
+      <title>圣堂攻略-佣兵篇</title>
+      <link href="/2022/01/04/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220104%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E4%BD%A3%E5%85%B5%E7%AF%87/"/>
+      <url>/2022/01/04/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220104%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E4%BD%A3%E5%85%B5%E7%AF%87/</url>
+      
+        <content type="html"><![CDATA[<h1 id="圣堂攻略-佣兵篇"><a href="#圣堂攻略-佣兵篇" class="headerlink" title="圣堂攻略-佣兵篇"></a>圣堂攻略-佣兵篇</h1><p>更多信息详见 <a href="http://xiang0731.github.io/2022/01/01/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220101%20%E5%9C%A3%E5%A0%82%E5%AF%BC%E8%88%AA/">圣堂导航</a></p><h3 id="装备"><a href="#装备" class="headerlink" title="装备"></a>装备</h3><p>20级白装，强化+20。能用到弃坑…</p><h3 id="升星"><a href="#升星" class="headerlink" title="升星"></a>升星</h3><p>优先升级到11星，属性会增长10倍</p><p>法师职业的佣兵升级路径：先猎人11星，然后战士11星，然后法师15星，战士15星，猎人15星。</p><p>11星以后就不兑换橙色经验书也不合成，节约钻石 </p><h3 id="技能"><a href="#技能" class="headerlink" title="技能"></a>技能</h3><p>战士：破甲10级-雷霆震击9级</p><p>猎人：大毒1级-眩晕射击9级</p><p>法师：我不上场谢谢</p><h3 id="套装"><a href="#套装" class="headerlink" title="套装"></a>套装</h3><p>优先弄4件240套，随便哪个部位都可以，哪个容易弄哪个，不用加强化（主要吃套装属性）</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 圣堂游戏相关 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 圣堂 </tag>
+            
+            <tag> 游戏 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>圣堂攻略-新手篇</title>
       <link href="/2022/01/03/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220103%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E6%96%B0%E6%89%8B%E7%AF%87/"/>
       <url>/2022/01/03/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220103%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E6%96%B0%E6%89%8B%E7%AF%87/</url>
       
-        <content type="html"><![CDATA[<h1 id="圣堂攻略-新手篇"><a href="#圣堂攻略-新手篇" class="headerlink" title="圣堂攻略-新手篇"></a>圣堂攻略-新手篇</h1><h3 id="新手必做"><a href="#新手必做" class="headerlink" title="新手必做"></a>新手必做</h3><p>1、买背包空间，消耗100x10钻石，扩容100个空间</p><p>2、加官方Q群，每周一领兑换码兑换东西（一般兑换码为<code>zhou+周一日期</code>，如<code>zhou20220103</code>）</p><p>3、商店-国王宝库，买<code>亡灵的召唤</code>，可以缩短遇敌时间，共需要48000钻石</p><p>4、在12级图刷10级白色装备，在14级图刷15级戒指，然后全部强化+20（强化会有神器属性加成），可以一直用到换80套装（80套可以通过挂精英地图存碎片慢慢兑换出来，不需要买）。</p><p>5、前期可以买圣器“噬神者”，用于打名人堂获取灵魂碎片（看个人钻石安排）</p><h3 id="注意事项"><a href="#注意事项" class="headerlink" title="注意事项"></a>注意事项</h3><p>1、成长任务里击败boss的奖励不要领，除非真的需要boss次数。（这个只有前两百的boss有奖励）</p><p>2、在线挂机胜利者荣耀成就完成最快（钻石来源）同样手动熔炼也是完成最快（钻石）， 装备洗练打1件10级蓝色以上品质洗练，装备普通打造在转生后去做，转生后等级不能超过20级</p><p>3、一转110级；二转130级；三转150；四转170，五转500 打自己的镜像：打不过的时候才只留武器然后下其他装备买庇护，不然直接打就行。</p><p>4、宝石前期用单色，在全部达到15级之前不要合成双色宝石。</p><p>5、圣器买完亡灵之后就买王者之剑，后面一直升王者之剑。</p><p>6、尽量选择能秒的图挂机，这样效率最高。</p><p>7、战斗达到50回合后，战斗页面可以点击直接跳过完成战斗</p><p>8、用于官职贡献的矿石必须为20级以上</p><p>9、VIP带来的收益非常高，不要轻易去花VIP积分！</p><p>10、注意！！周五有双倍，注意看主页活动，双倍时开双倍、四倍、有10倍开10倍，倍数可叠加。</p><p>双倍来源：活动副本每日3张，每日任务完成2张，特殊任务每日2张，vip商店每日可够买7张，每张3积分，共计每日14张。另外够买月卡也有双倍送 </p><p>四倍来源：转生商店每日2张，特殊任务2张。5张双倍可以合成1张四倍。</p><p>十倍来源：3张四倍可以合成1张十倍</p><p>11、每日把声望的回收满，膜拜钻石多的可以3钻膜拜，一般的2金1钻，普通神器前期不建议回收，目标至少v7，可以扫荡通天塔</p><p>12、关于转生：转生之前的经验会被浪费掉 转生之前记得先把活动副本打了，把精英副本的挂机经验拿了，把任务里的boss次数领了（这个也可以不做）。转生之后先去打通天塔或者找个打得久的东西打（尽量减慢升级速度） 。转生之后记得把声望神器给做了（等级高了做声望神器需要的熔炼值高）</p><p>13、卡Boss：打一个boss之后，打一波小怪，再点1次打boss，就能无限打，不要连续打boss，会消耗次数</p><p>14、卡金币：在快速战斗前，先把装备设置成全部售出，等金币高了之后再快速战斗。掉紫装金币效率1300，橙装金币效率 1700，同样掉落紫装和橙装2100。然后马上挑战BOSS（不挑战BOOS的话，金币效率会马上变化）</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="圣堂攻略-新手篇"><a href="#圣堂攻略-新手篇" class="headerlink" title="圣堂攻略-新手篇"></a>圣堂攻略-新手篇</h1><p>更多信息详见 <a href="http://xiang0731.github.io/2022/01/01/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220101%20%E5%9C%A3%E5%A0%82%E5%AF%BC%E8%88%AA/">圣堂导航</a></p><h3 id="新手必做"><a href="#新手必做" class="headerlink" title="新手必做"></a>新手必做</h3><p>1、买背包空间，消耗100x10钻石，扩容100个空间</p><p>2、加官方Q群，每周一领兑换码兑换东西（一般兑换码为<code>zhou+周一日期</code>，如<code>zhou20220103</code>）</p><p>3、商店-国王宝库，买<code>亡灵的召唤</code>，可以缩短遇敌时间，共需要48000钻石</p><p>4、在12级图刷10级白色装备，在14级图刷15级戒指，然后全部强化+20（强化会有神器属性加成），可以一直用到换80套装（80套可以通过挂精英地图存碎片慢慢兑换出来，不需要买）。</p><p>5、前期可以买圣器“噬神者”，用于打名人堂获取灵魂碎片（看个人钻石安排）</p><p>6、先打到15级，开佣兵，给佣兵上装备，全白装强化20。15级后还会开主城，去升级，矿石可以用高等级分解。群里发放的CDK会送很多高级矿石，这时候我们就需要把它分解成升级所需的矿石等级了。分解矿石与合成矿石都在背包里面。</p><p>只有达到VIP3以后才能一键挖矿。对于0元档，游戏挖矿的设置与消消乐是一样的道理，点击任意数字，该数字都会变成比原来数字大一的数。</p><p>7、20级后，开启爵位进阶功能。爵位的进阶需要达到等级要求还有消耗声望，通关地图。把爵位进阶到能进阶的最大。这样更有利于推图效率最大化。</p><p>8、25级后，在任务栏里面的特殊任务领取钻石初级任务。有助于新手快速升级，提前享受到更多的副本与活动。</p><p>9、30级开放世界BOSS。活动时间是12:00到20:00，每天必打。</p><p>10、35级开放名人堂，积分主要来源之一，前期建议平民玩家钻石膜拜。因为金币前期比较短缺。金币膜拜：花金币，得声望、钻石。钻石膜拜，得VIP积分，精华。</p><p>11、50级开启精英副本。挂机可以得积分石和钻石。VIP0可挂机最长时间为六个小时。随着VIP等级增加,每增加一个等级多增加一个小时。停止挂机才能结算奖励。最好挂机时间为整数的时候结算收益最大。积分石可以在回收中换取VIP积分。可以购买钻石中级任务。</p><h3 id="零零碎碎的攻略"><a href="#零零碎碎的攻略" class="headerlink" title="零零碎碎的攻略"></a>零零碎碎的攻略</h3><p>1、成长任务里击败boss的奖励不要领，除非真的需要boss次数。（这个只有前两百的boss有奖励）</p><p>2、在线挂机胜利者荣耀成就完成最快（钻石来源）同样手动熔炼也是完成最快（钻石）， 装备洗练打1件10级蓝色以上品质洗练，装备普通打造在转生后去做，转生后等级不能超过20级</p><p>3、一转110级；二转130级；三转150；四转170，五转500 打自己的镜像：打不过的时候才只留武器然后下其他装备买庇护，不然直接打就行。</p><p>4、宝石前期用单色，在全部达到15级之前不要合成双色宝石。</p><p>5、圣器买完亡灵之后就买王者之剑，后面一直升王者之剑。</p><p>6、尽量选择能秒的图挂机，这样效率最高。</p><p>7、战斗达到50回合后，战斗页面可以点击直接跳过完成战斗</p><p>8、用于官职贡献的矿石必须为20级以上</p><p>9、VIP带来的收益非常高，不要轻易去花VIP积分！</p><p>10、注意！！周五有双倍，注意看主页活动，双倍时开双倍、四倍、有10倍开10倍，倍数可叠加。</p><p>双倍来源：活动副本每日3张，每日任务完成2张，特殊任务每日2张，vip商店每日可够买7张，每张3积分，共计每日14张。另外够买月卡也有双倍送 </p><p>四倍来源：转生商店每日2张，特殊任务2张。5张双倍可以合成1张四倍。</p><p>十倍来源：3张四倍可以合成1张十倍</p><p>11、每日把声望的回收满，膜拜钻石多的可以3钻膜拜，一般的2金1钻，普通神器前期不建议回收，目标至少v7，可以扫荡通天塔</p><p>12、关于转生：转生之前的经验会被浪费掉 转生之前记得先把活动副本打了，把精英副本的挂机经验拿了，把任务里的boss次数领了（这个也可以不做）。转生之后先去打通天塔或者找个打得久的东西打（尽量减慢升级速度） 。转生之后记得把声望神器给做了（等级高了做声望神器需要的熔炼值高）</p><p>13、卡Boss：打一个boss之后，打一波小怪，再点1次打boss，就能无限打，不要连续打boss，会消耗次数</p><p>14、卡金币：在快速战斗前，先把装备设置成全部售出，等金币高了之后再快速战斗。掉紫装金币效率1300，橙装金币效率 1700，同样掉落紫装和橙装2100。然后马上挑战BOSS（不挑战BOOS的话，金币效率会马上变化）</p><p>15、转生阅读不要急，一天看一次最好。</p><p>16、5000钻石购买的高级经验任务，由于获得的经验是按等级乘以3300经验算的，一次性能升3.3级左右。</p><p>17、神器融合可以将普通神器和声望神器效果集中到一个装备上。</p>]]></content>
       
       
       <categories>
@@ -1009,7 +1009,7 @@
       <link href="/2022/01/01/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220101%20%E5%9C%A3%E5%A0%82%E5%AF%BC%E8%88%AA/"/>
       <url>/2022/01/01/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220101%20%E5%9C%A3%E5%A0%82%E5%AF%BC%E8%88%AA/</url>
       
-        <content type="html"><![CDATA[<h1 id="圣堂导航"><a href="#圣堂导航" class="headerlink" title="圣堂导航"></a>圣堂导航</h1><h3 id="数据计算器"><a href="#数据计算器" class="headerlink" title="数据计算器"></a>数据计算器</h3><p><a href="https://xiang0731.github.io/Shengtang/">https://xiang0731.github.io/Shengtang/</a></p><h3 id="各类数据表格"><a href="#各类数据表格" class="headerlink" title="各类数据表格"></a>各类数据表格</h3><p><a href="https://xiang0731.github.io/2022/01/01/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220101%20%E5%9C%A3%E5%A0%82%E5%90%84%E7%A7%8D%E8%A1%A8%E6%A0%BC/">https://xiang0731.github.io/2022/01/01/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220101%20%E5%9C%A3%E5%A0%82%E5%90%84%E7%A7%8D%E8%A1%A8%E6%A0%BC/</a></p><h3 id="圣堂攻略-套装篇"><a href="#圣堂攻略-套装篇" class="headerlink" title="圣堂攻略-套装篇"></a>圣堂攻略-套装篇</h3><p><a href="http://xiang0731.github.io/2022/01/07/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220107%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E5%A5%97%E8%A3%85%E7%AF%87/">http://xiang0731.github.io/2022/01/07/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220107%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E5%A5%97%E8%A3%85%E7%AF%87/</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="圣堂导航"><a href="#圣堂导航" class="headerlink" title="圣堂导航"></a>圣堂导航</h1><h3 id="数据计算器"><a href="#数据计算器" class="headerlink" title="数据计算器"></a>数据计算器</h3><p><a href="https://xiang0731.github.io/Shengtang/">https://xiang0731.github.io/Shengtang/</a></p><h3 id="各类数据表格"><a href="#各类数据表格" class="headerlink" title="各类数据表格"></a>各类数据表格</h3><p><a href="https://xiang0731.github.io/2022/01/01/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220101%20%E5%9C%A3%E5%A0%82%E5%90%84%E7%A7%8D%E8%A1%A8%E6%A0%BC/">https://xiang0731.github.io/2022/01/01/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220101%20%E5%9C%A3%E5%A0%82%E5%90%84%E7%A7%8D%E8%A1%A8%E6%A0%BC/</a></p><h3 id="圣堂攻略-新手篇"><a href="#圣堂攻略-新手篇" class="headerlink" title="圣堂攻略-新手篇"></a>圣堂攻略-新手篇</h3><p><a href="https://xiang0731.github.io/2022/01/03/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220103%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E6%96%B0%E6%89%8B%E7%AF%87/">https://xiang0731.github.io/2022/01/03/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220103%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E6%96%B0%E6%89%8B%E7%AF%87/</a></p><h3 id="圣堂攻略-神器篇"><a href="#圣堂攻略-神器篇" class="headerlink" title="圣堂攻略-神器篇"></a>圣堂攻略-神器篇</h3><p><a href="https://xiang0731.github.io/2022/01/06/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220106%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E7%A5%9E%E5%99%A8%E7%AF%87/">https://xiang0731.github.io/2022/01/06/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220106%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E7%A5%9E%E5%99%A8%E7%AF%87/</a></p><h3 id="圣堂攻略-每日任务篇"><a href="#圣堂攻略-每日任务篇" class="headerlink" title="圣堂攻略-每日任务篇"></a>圣堂攻略-每日任务篇</h3><p><a href="https://xiang0731.github.io/2022/01/05/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220105%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1%E7%AF%87/">https://xiang0731.github.io/2022/01/05/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220105%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E6%AF%8F%E6%97%A5%E4%BB%BB%E5%8A%A1%E7%AF%87/</a></p><h3 id="圣堂攻略-佣兵篇"><a href="#圣堂攻略-佣兵篇" class="headerlink" title="圣堂攻略-佣兵篇"></a>圣堂攻略-佣兵篇</h3><p><a href="https://xiang0731.github.io/2022/01/04/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220108%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E4%BD%A3%E5%85%B5%E7%AF%87/">https://xiang0731.github.io/2022/01/04/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220108%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E4%BD%A3%E5%85%B5%E7%AF%87/</a></p><h3 id="圣堂攻略-套装篇"><a href="#圣堂攻略-套装篇" class="headerlink" title="圣堂攻略-套装篇"></a>圣堂攻略-套装篇</h3><p><a href="http://xiang0731.github.io/2022/01/07/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220107%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E5%A5%97%E8%A3%85%E7%AF%87/">http://xiang0731.github.io/2022/01/07/%E6%B8%B8%E6%88%8F-%E5%9C%A3%E5%A0%82/220107%20%E5%9C%A3%E5%A0%82%E6%94%BB%E7%95%A5-%E5%A5%97%E8%A3%85%E7%AF%87/</a></p>]]></content>
       
       
       <categories>
