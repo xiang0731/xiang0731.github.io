@@ -4,23 +4,27 @@
   
     
     <entry>
-      <title>COD19领蓝图</title>
-      <link href="/2023/06/23/%E4%B9%B0%E5%89%8D%E8%AF%84%E6%B5%8B%20%E4%BC%98%E6%83%A0%E4%BF%A1%E6%81%AF%20%E4%B9%B0%E5%90%8E%E5%AD%98%E6%A1%A3/230623%20COD19%E9%A2%86%E8%93%9D%E5%9B%BE/"/>
-      <url>/2023/06/23/%E4%B9%B0%E5%89%8D%E8%AF%84%E6%B5%8B%20%E4%BC%98%E6%83%A0%E4%BF%A1%E6%81%AF%20%E4%B9%B0%E5%90%8E%E5%AD%98%E6%A1%A3/230623%20COD19%E9%A2%86%E8%93%9D%E5%9B%BE/</url>
+      <title>Notion写作快捷</title>
+      <link href="/2023/06/24/%E9%98%BF%E8%87%AA%E7%94%A8/230624%20Notion%E5%86%99%E4%BD%9C%E5%BF%AB%E6%8D%B7/"/>
+      <url>/2023/06/24/%E9%98%BF%E8%87%AA%E7%94%A8/230624%20Notion%E5%86%99%E4%BD%9C%E5%BF%AB%E6%8D%B7/</url>
       
-        <content type="html"><![CDATA[<h1 id="COD19领蓝图"><a href="#COD19领蓝图" class="headerlink" title="COD19领蓝图"></a>COD19领蓝图</h1><h3 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h3><p>打开官网<a href="https://profile.callofduty.com/promotions/redeemCode">https://profile.callofduty.com/promotions/redeemCode</a></p><p>登录账号，输入兑换码<code>CDLCHAMP23</code>，兑换即可</p><h3 id="兑换内容"><a href="#兑换内容" class="headerlink" title="兑换内容"></a>兑换内容</h3><p><img src="https://s2.loli.net/2023/06/24/sKoqxBuAZa8zXO5.png" alt="image-20230624122757243"></p><h3 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h3><p>东西会直接发到仓库里，不需要额外操作</p><p>举个例子~</p><p>通用皮肤（在<code>迷彩-特殊</code>里）</p><p><img src="https://s2.loli.net/2023/06/24/nx4rKdwpiDcMO9Y.png" alt="CleanShot 2023-06-24 at 12.48.37"></p><p>匕首蓝图-王室（带击杀特效）</p><p><img src="https://s2.loli.net/2023/06/24/Si8YdOx3rgz69qy.png" alt="image-20230624122825883"></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="Notion写作快捷"><a href="#Notion写作快捷" class="headerlink" title="Notion写作快捷"></a>Notion写作快捷</h1><h2 id="快捷输入-常用"><a href="#快捷输入-常用" class="headerlink" title="快捷输入-常用"></a>快捷输入-常用</h2><h3 id="段落"><a href="#段落" class="headerlink" title="段落"></a>段落</h3><p>输入以下并空格<br>H1对应为#，H2对应为##，H3对应为###</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">#</span><br></pre></td></tr></table></figure><h3 id="折叠内容toggle"><a href="#折叠内容toggle" class="headerlink" title="折叠内容toggle"></a>折叠内容toggle</h3><p>输入以下并空格</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&gt;</span><br></pre></td></tr></table></figure><h3 id="代码code"><a href="#代码code" class="headerlink" title="代码code"></a>代码code</h3><p>输入三个以下字符并空格</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`</span><br></pre></td></tr></table></figure><h3 id="引用框quote"><a href="#引用框quote" class="headerlink" title="引用框quote"></a>引用框quote</h3><p>输入以下字符（一个双引号）并空格</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">&quot;</span><br></pre></td></tr></table></figure><h3 id="设置提醒-remind"><a href="#设置提醒-remind" class="headerlink" title="设置提醒@remind"></a>设置提醒@remind</h3><p>输入以下字符并空格，然后输入日期</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">@remind </span><br></pre></td></tr></table></figure><h2 id="快捷输入-不常用"><a href="#快捷输入-不常用" class="headerlink" title="快捷输入-不常用"></a>快捷输入-不常用</h2><h3 id="勾选框"><a href="#勾选框" class="headerlink" title="勾选框"></a>勾选框</h3><p>输入以下内容并空格</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">[]</span><br></pre></td></tr></table></figure><h3 id="删除线"><a href="#删除线" class="headerlink" title="删除线~"></a>删除线~</h3><p>在需要添加删除线内容的左右侧各加上一个<code>~</code>即可</p><h3 id="无序列表"><a href="#无序列表" class="headerlink" title="无序列表"></a>无序列表</h3><p>输入以下三行任意一行内容并空格</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">*</span><br><span class="line">-</span><br><span class="line">+</span><br></pre></td></tr></table></figure><h3 id="有序列表"><a href="#有序列表" class="headerlink" title="有序列表"></a>有序列表</h3><p>输入以下三行任意一行内容并空格</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1.</span><br><span class="line">a.</span><br><span class="line">i.</span><br></pre></td></tr></table></figure><h2 id="快捷键"><a href="#快捷键" class="headerlink" title="快捷键"></a>快捷键</h2><h3 id="加粗-B"><a href="#加粗-B" class="headerlink" title="加粗 B"></a>加粗 B</h3><p>Ctrl+B</p><h3 id="斜体-I"><a href="#斜体-I" class="headerlink" title="斜体 I"></a>斜体 I</h3><p>Ctrl+I</p><h3 id="下划线-U"><a href="#下划线-U" class="headerlink" title="下划线 U"></a>下划线 U</h3><p>Ctrl+U</p><hr><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p>Notion shortcuts: <a href="https://www.notion.so/help/keyboard-shortcuts">https://www.notion.so/help/keyboard-shortcuts</a></p>]]></content>
       
       
       <categories>
           
-          <category> 买前评测/优惠信息/买后存档 </category>
+          <category> Ah！是什么？为什么？做什么？ </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> 羊毛 </tag>
+            <tag> 科普教程 </tag>
+            
+            <tag> 自用 </tag>
+            
+            <tag> Notion </tag>
             
         </tags>
       
@@ -46,6 +50,31 @@
         <tags>
             
             <tag> 说明书 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>COD19领蓝图</title>
+      <link href="/2023/06/23/%E4%B9%B0%E5%89%8D%E8%AF%84%E6%B5%8B%20%E4%BC%98%E6%83%A0%E4%BF%A1%E6%81%AF%20%E4%B9%B0%E5%90%8E%E5%AD%98%E6%A1%A3/230623%20COD19%E9%A2%86%E8%93%9D%E5%9B%BE/"/>
+      <url>/2023/06/23/%E4%B9%B0%E5%89%8D%E8%AF%84%E6%B5%8B%20%E4%BC%98%E6%83%A0%E4%BF%A1%E6%81%AF%20%E4%B9%B0%E5%90%8E%E5%AD%98%E6%A1%A3/230623%20COD19%E9%A2%86%E8%93%9D%E5%9B%BE/</url>
+      
+        <content type="html"><![CDATA[<h1 id="COD19领蓝图"><a href="#COD19领蓝图" class="headerlink" title="COD19领蓝图"></a>COD19领蓝图</h1><h3 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h3><p>打开官网<a href="https://profile.callofduty.com/promotions/redeemCode">https://profile.callofduty.com/promotions/redeemCode</a></p><p>登录账号，输入兑换码<code>CDLCHAMP23</code>，兑换即可</p><h3 id="兑换内容"><a href="#兑换内容" class="headerlink" title="兑换内容"></a>兑换内容</h3><p><img src="https://s2.loli.net/2023/06/24/sKoqxBuAZa8zXO5.png" alt="image-20230624122757243"></p><h3 id="结果"><a href="#结果" class="headerlink" title="结果"></a>结果</h3><p>东西会直接发到仓库里，不需要额外操作</p><p>举个例子~</p><p>通用皮肤（在<code>迷彩-特殊</code>里）</p><p><img src="https://s2.loli.net/2023/06/24/nx4rKdwpiDcMO9Y.png" alt="CleanShot 2023-06-24 at 12.48.37"></p><p>匕首蓝图-王室（带击杀特效）</p><p><img src="https://s2.loli.net/2023/06/24/Si8YdOx3rgz69qy.png" alt="image-20230624122825883"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 买前评测/优惠信息/买后存档 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 羊毛 </tag>
             
         </tags>
       
@@ -249,9 +278,9 @@
       
         <tags>
             
-            <tag> Apple </tag>
-            
             <tag> Mac </tag>
+            
+            <tag> Apple </tag>
             
         </tags>
       
@@ -330,9 +359,9 @@
       
         <tags>
             
-            <tag> Apple </tag>
-            
             <tag> Mac </tag>
+            
+            <tag> Apple </tag>
             
         </tags>
       
@@ -382,11 +411,11 @@
       
         <tags>
             
-            <tag> 问题解决 </tag>
+            <tag> Mac </tag>
             
             <tag> Apple </tag>
             
-            <tag> Mac </tag>
+            <tag> 问题解决 </tag>
             
         </tags>
       
@@ -501,33 +530,6 @@
     
     
     <entry>
-      <title>干掉输入法中的”·“</title>
-      <link href="/2023/05/13/Ah%EF%BC%81%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%9F/230513%20%E5%B9%B2%E6%8E%89%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AD%E7%9A%84%E2%80%9D%C2%B7%E2%80%9C/"/>
-      <url>/2023/05/13/Ah%EF%BC%81%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%9F/230513%20%E5%B9%B2%E6%8E%89%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AD%E7%9A%84%E2%80%9D%C2%B7%E2%80%9C/</url>
-      
-        <content type="html"><![CDATA[<h1 id="干掉输入法中的”·“"><a href="#干掉输入法中的”·“" class="headerlink" title="干掉输入法中的”·“"></a>干掉输入法中的”·“</h1><h3 id="痛点"><a href="#痛点" class="headerlink" title="痛点"></a>痛点</h3><p>因为用markdown写作</p><p>常常想输入</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`</span><br></pre></td></tr></table></figure><p>的时候老是输入到</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">·</span><br></pre></td></tr></table></figure><h3 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h3><p>我是用的搜狗，在输入法设置里找到<code>符号替换设置</code>，在里面把这两个符号添加上去，保存即可。</p><p>后面就不会输出到”·“啦（如果有需要的时候再把这个关掉）</p><p><img src="https://s2.loli.net/2023/05/13/SuerZTayWCBYwLm.png" alt="CleanShot 2023-05-13 at 15.14.47"></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Ah！是什么？为什么？做什么？ </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 问题解决 </tag>
-            
-            <tag> 科普教程 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>让Markdown中的图片靠左放置</title>
       <link href="/2023/05/13/Markdown%E4%BB%8E0%E5%88%B01/230513%20%E8%AE%A9Markdown%E4%B8%AD%E7%9A%84%E5%9B%BE%E7%89%87%E9%9D%A0%E5%B7%A6%E6%94%BE%E7%BD%AE/"/>
       <url>/2023/05/13/Markdown%E4%BB%8E0%E5%88%B01/230513%20%E8%AE%A9Markdown%E4%B8%AD%E7%9A%84%E5%9B%BE%E7%89%87%E9%9D%A0%E5%B7%A6%E6%94%BE%E7%BD%AE/</url>
@@ -555,6 +557,33 @@
     
     
     <entry>
+      <title>干掉输入法中的”·“</title>
+      <link href="/2023/05/13/Ah%EF%BC%81%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%9F/230513%20%E5%B9%B2%E6%8E%89%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AD%E7%9A%84%E2%80%9D%C2%B7%E2%80%9C/"/>
+      <url>/2023/05/13/Ah%EF%BC%81%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%9F/230513%20%E5%B9%B2%E6%8E%89%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%AD%E7%9A%84%E2%80%9D%C2%B7%E2%80%9C/</url>
+      
+        <content type="html"><![CDATA[<h1 id="干掉输入法中的”·“"><a href="#干掉输入法中的”·“" class="headerlink" title="干掉输入法中的”·“"></a>干掉输入法中的”·“</h1><h3 id="痛点"><a href="#痛点" class="headerlink" title="痛点"></a>痛点</h3><p>因为用markdown写作</p><p>常常想输入</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">`</span><br></pre></td></tr></table></figure><p>的时候老是输入到</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">·</span><br></pre></td></tr></table></figure><h3 id="解决"><a href="#解决" class="headerlink" title="解决"></a>解决</h3><p>我是用的搜狗，在输入法设置里找到<code>符号替换设置</code>，在里面把这两个符号添加上去，保存即可。</p><p>后面就不会输出到”·“啦（如果有需要的时候再把这个关掉）</p><p><img src="https://s2.loli.net/2023/05/13/SuerZTayWCBYwLm.png" alt="CleanShot 2023-05-13 at 15.14.47"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Ah！是什么？为什么？做什么？ </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 科普教程 </tag>
+            
+            <tag> 问题解决 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>威联通拒绝连接请求</title>
       <link href="/2023/05/12/Ah%EF%BC%81%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%9F/230512%20%E5%A8%81%E8%81%94%E9%80%9A%E6%8B%92%E7%BB%9D%E8%BF%9E%E6%8E%A5%E8%AF%B7%E6%B1%82/"/>
       <url>/2023/05/12/Ah%EF%BC%81%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%EF%BC%9F%E5%81%9A%E4%BB%80%E4%B9%88%EF%BC%9F/230512%20%E5%A8%81%E8%81%94%E9%80%9A%E6%8B%92%E7%BB%9D%E8%BF%9E%E6%8E%A5%E8%AF%B7%E6%B1%82/</url>
@@ -571,9 +600,9 @@
       
         <tags>
             
-            <tag> NAS-威联通QNAP </tag>
-            
             <tag> 问题解决 </tag>
+            
+            <tag> NAS-威联通QNAP </tag>
             
         </tags>
       
@@ -804,9 +833,9 @@
       
         <tags>
             
-            <tag> 科普教程 </tag>
-            
             <tag> Github </tag>
+            
+            <tag> 科普教程 </tag>
             
         </tags>
       
@@ -869,33 +898,6 @@
     
     
     <entry>
-      <title>Hexo将文章超链接放到导航栏</title>
-      <link href="/2023/04/26/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E5%B0%86%E6%96%87%E7%AB%A0%E8%B6%85%E9%93%BE%E6%8E%A5%E6%94%BE%E5%88%B0%E5%AF%BC%E8%88%AA%E6%A0%8F/"/>
-      <url>/2023/04/26/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E5%B0%86%E6%96%87%E7%AB%A0%E8%B6%85%E9%93%BE%E6%8E%A5%E6%94%BE%E5%88%B0%E5%AF%BC%E8%88%AA%E6%A0%8F/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Hexo将文章超链接放到导航栏"><a href="#Hexo将文章超链接放到导航栏" class="headerlink" title="Hexo将文章超链接放到导航栏"></a>Hexo将文章超链接放到导航栏</h1><h3 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h3><p>首先找到Hexo的配置文件<code>_config.yml</code></p><p>搜索<code>permalink</code></p><p>一般就能看到<code>permalink: :year/:month/:day/:title/</code>。这里显示的是文章的路径格式，如果不一样就按照下列思路去改就行。</p><p><img src="https://s2.loli.net/2023/05/07/2ML4eRAHsFEGf5u.png" alt="image-20230507122636494"></p><p>找到想要放的文章，获取它的md文件名，比如我测试用的文件是<code>230501 Test.md</code>，那么下面{md文件名}该填入的就是<code>230501 Test</code></p><p>然后打开这个文件，获取它的日期（即front-matter里的<code>date: </code>)。如果里面是<code>date: 2023-05-01</code>，那么下面{日期}该填入的就是<code>2023/05/01</code></p><p>然后修改主题文件即可。</p><p>格式：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">导航标题：/&#123;日期&#125;/&#123;md文件名&#125;/ || fas fa-home</span><br></pre></td></tr></table></figure><p>举例：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">menu:</span><br><span class="line">  首页: / || fas fa-home</span><br><span class="line">  测试超链接：/2023/05/01/230501 Test/ || fas fa-home</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> 从0到1打造自己的网站 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 科普教程 </tag>
-            
-            <tag> Hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Butterfly页面语法</title>
       <link href="/2023/04/26/%E9%98%BF%E8%87%AA%E7%94%A8/230412%20Butterfly%E9%A1%B5%E9%9D%A2%E8%AF%AD%E6%B3%95/"/>
       <url>/2023/04/26/%E9%98%BF%E8%87%AA%E7%94%A8/230412%20Butterfly%E9%A1%B5%E9%9D%A2%E8%AF%AD%E6%B3%95/</url>
@@ -919,6 +921,33 @@
             <tag> Hexo </tag>
             
             <tag> Butterfly </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo将文章超链接放到导航栏</title>
+      <link href="/2023/04/26/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E5%B0%86%E6%96%87%E7%AB%A0%E8%B6%85%E9%93%BE%E6%8E%A5%E6%94%BE%E5%88%B0%E5%AF%BC%E8%88%AA%E6%A0%8F/"/>
+      <url>/2023/04/26/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E5%B0%86%E6%96%87%E7%AB%A0%E8%B6%85%E9%93%BE%E6%8E%A5%E6%94%BE%E5%88%B0%E5%AF%BC%E8%88%AA%E6%A0%8F/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Hexo将文章超链接放到导航栏"><a href="#Hexo将文章超链接放到导航栏" class="headerlink" title="Hexo将文章超链接放到导航栏"></a>Hexo将文章超链接放到导航栏</h1><h3 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h3><p>首先找到Hexo的配置文件<code>_config.yml</code></p><p>搜索<code>permalink</code></p><p>一般就能看到<code>permalink: :year/:month/:day/:title/</code>。这里显示的是文章的路径格式，如果不一样就按照下列思路去改就行。</p><p><img src="https://s2.loli.net/2023/05/07/2ML4eRAHsFEGf5u.png" alt="image-20230507122636494"></p><p>找到想要放的文章，获取它的md文件名，比如我测试用的文件是<code>230501 Test.md</code>，那么下面{md文件名}该填入的就是<code>230501 Test</code></p><p>然后打开这个文件，获取它的日期（即front-matter里的<code>date: </code>)。如果里面是<code>date: 2023-05-01</code>，那么下面{日期}该填入的就是<code>2023/05/01</code></p><p>然后修改主题文件即可。</p><p>格式：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">导航标题：/&#123;日期&#125;/&#123;md文件名&#125;/ || fas fa-home</span><br></pre></td></tr></table></figure><p>举例：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">menu:</span><br><span class="line">  首页: / || fas fa-home</span><br><span class="line">  测试超链接：/2023/05/01/230501 Test/ || fas fa-home</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 从0到1打造自己的网站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 科普教程 </tag>
+            
+            <tag> Hexo </tag>
             
         </tags>
       
@@ -999,9 +1028,9 @@
       
         <tags>
             
-            <tag> 问题解决 </tag>
-            
             <tag> 科普教程 </tag>
+            
+            <tag> 问题解决 </tag>
             
             <tag> 自用 </tag>
             
@@ -1082,9 +1111,9 @@
             
             <tag> 科普教程 </tag>
             
-            <tag> Apple </tag>
-            
             <tag> Mac </tag>
+            
+            <tag> Apple </tag>
             
         </tags>
       
