@@ -1087,6 +1087,33 @@
     
     
     <entry>
+      <title>Hexo将文章超链接放到导航栏</title>
+      <link href="/2023/04/26/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E5%B0%86%E6%96%87%E7%AB%A0%E8%B6%85%E9%93%BE%E6%8E%A5%E6%94%BE%E5%88%B0%E5%AF%BC%E8%88%AA%E6%A0%8F/"/>
+      <url>/2023/04/26/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E5%B0%86%E6%96%87%E7%AB%A0%E8%B6%85%E9%93%BE%E6%8E%A5%E6%94%BE%E5%88%B0%E5%AF%BC%E8%88%AA%E6%A0%8F/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Hexo将文章超链接放到导航栏"><a href="#Hexo将文章超链接放到导航栏" class="headerlink" title="Hexo将文章超链接放到导航栏"></a>Hexo将文章超链接放到导航栏</h1><h3 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h3><p>首先找到Hexo的配置文件<code>_config.yml</code></p><p>搜索<code>permalink</code></p><p>一般就能看到<code>permalink: :year/:month/:day/:title/</code>。这里显示的是文章的路径格式，如果不一样就按照下列思路去改就行。</p><p><img src="https://s2.loli.net/2023/05/07/2ML4eRAHsFEGf5u.png" alt="image-20230507122636494"></p><p>找到想要放的文章，获取它的md文件名，比如我测试用的文件是<code>230501 Test.md</code>，那么下面{md文件名}该填入的就是<code>230501 Test</code></p><p>然后打开这个文件，获取它的日期（即front-matter里的<code>date: </code>)。如果里面是<code>date: 2023-05-01</code>，那么下面{日期}该填入的就是<code>2023/05/01</code></p><p>然后修改主题文件即可。</p><p>格式：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">导航标题：/&#123;日期&#125;/&#123;md文件名&#125;/ || fas fa-home</span><br></pre></td></tr></table></figure><p>举例：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">menu:</span><br><span class="line">  首页: / || fas fa-home</span><br><span class="line">  测试超链接：/2023/05/01/230501 Test/ || fas fa-home</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      <categories>
+          
+          <category> 从0到1打造自己的网站 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 科普教程 </tag>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Butterfly页面语法</title>
       <link href="/2023/04/26/%E9%98%BF%E8%87%AA%E7%94%A8/230412%20Butterfly%E9%A1%B5%E9%9D%A2%E8%AF%AD%E6%B3%95/"/>
       <url>/2023/04/26/%E9%98%BF%E8%87%AA%E7%94%A8/230412%20Butterfly%E9%A1%B5%E9%9D%A2%E8%AF%AD%E6%B3%95/</url>
@@ -1110,33 +1137,6 @@
             <tag> Hexo </tag>
             
             <tag> Butterfly </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Hexo将文章超链接放到导航栏</title>
-      <link href="/2023/04/26/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E5%B0%86%E6%96%87%E7%AB%A0%E8%B6%85%E9%93%BE%E6%8E%A5%E6%94%BE%E5%88%B0%E5%AF%BC%E8%88%AA%E6%A0%8F/"/>
-      <url>/2023/04/26/%E7%94%A8Hexo%E4%BB%8E0%E5%88%B01%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2/230507%20Hexo%E5%B0%86%E6%96%87%E7%AB%A0%E8%B6%85%E9%93%BE%E6%8E%A5%E6%94%BE%E5%88%B0%E5%AF%BC%E8%88%AA%E6%A0%8F/</url>
-      
-        <content type="html"><![CDATA[<h1 id="Hexo将文章超链接放到导航栏"><a href="#Hexo将文章超链接放到导航栏" class="headerlink" title="Hexo将文章超链接放到导航栏"></a>Hexo将文章超链接放到导航栏</h1><h3 id="步骤"><a href="#步骤" class="headerlink" title="步骤"></a>步骤</h3><p>首先找到Hexo的配置文件<code>_config.yml</code></p><p>搜索<code>permalink</code></p><p>一般就能看到<code>permalink: :year/:month/:day/:title/</code>。这里显示的是文章的路径格式，如果不一样就按照下列思路去改就行。</p><p><img src="https://s2.loli.net/2023/05/07/2ML4eRAHsFEGf5u.png" alt="image-20230507122636494"></p><p>找到想要放的文章，获取它的md文件名，比如我测试用的文件是<code>230501 Test.md</code>，那么下面{md文件名}该填入的就是<code>230501 Test</code></p><p>然后打开这个文件，获取它的日期（即front-matter里的<code>date: </code>)。如果里面是<code>date: 2023-05-01</code>，那么下面{日期}该填入的就是<code>2023/05/01</code></p><p>然后修改主题文件即可。</p><p>格式：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">导航标题：/&#123;日期&#125;/&#123;md文件名&#125;/ || fas fa-home</span><br></pre></td></tr></table></figure><p>举例：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">menu:</span><br><span class="line">  首页: / || fas fa-home</span><br><span class="line">  测试超链接：/2023/05/01/230501 Test/ || fas fa-home</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> 从0到1打造自己的网站 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 科普教程 </tag>
-            
-            <tag> Hexo </tag>
             
         </tags>
       
